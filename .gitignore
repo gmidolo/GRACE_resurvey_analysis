@@ -6,3 +6,6 @@
 
 # ignore raw landscape data
 data/landscape/sites_lc_changes_fin*
+
+# ignore raster buffer data
+data/landscape/buffer_rasters/*
