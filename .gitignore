@@ -1,0 +1,8 @@
+# gitignore
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# ignore raw landscape data
+data/landscape/sites_lc_changes_fin*
