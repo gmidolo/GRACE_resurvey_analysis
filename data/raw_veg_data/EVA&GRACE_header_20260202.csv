@@ -1,0 +1,823 @@
+resurvey,plot_id,lon,lat,EVA_dataset,EVA_country,plot_size,recording_date,surveyor_name
+0,1401631,16.993056,48.176944,Slovakia_nvd,Slovak Republic,25,03.07.1964,M Kaleta
+0,1401630,16.994444,48.181944,Slovakia_nvd,Slovak Republic,25,02.07.1964,M Kaleta
+0,1401362,17.043056,48.262222,Slovakia_nvd,Slovak Republic,25,16.07.2004,K Hegedušová
+0,1389586,16.983889,48.185556,Slovakia_nvd,Slovak Republic,30,08.07.1960,V Zajacová
+0,1385622,16.983333,48.183611,Slovakia_nvd,Slovak Republic,25,18.07.2001,J Zlinská
+0,714482,14.93669,48.59087,Germany_gvrd,Austria,30,01.01.2006,H Linhard
+0,402458,16.839067,48.867289,Czechia_nvd,Czech Republic,10,12.08.2020,M Harásek
+0,401280,15.71,48.935833,Czechia_nvd,Czech Republic,20,01.01.1987,J Sádlo
+0,399965,16.007278,49.261167,Czechia_nvd,Czech Republic,15,22.07.2007,D Zelený
+0,399600,15.917,49.223806,Czechia_nvd,Czech Republic,16,12.05.2004,D Zelený
+0,399266,13.551017,49.15385,Czechia_nvd,Czech Republic,16,23.05.2002,I Bufková
+0,394944,15.974656,48.8136,Czechia_nvd,Czech Republic,16,18.08.2010,J Kůrová
+0,394878,15.802722,48.878639,Czechia_nvd,Czech Republic,16,18.08.2010,J Kůrová
+0,393699,16.648139,48.878444,Czechia_nvd,Czech Republic,16,19.07.2007,M Sojneková
+0,391125,16.302222,48.771389,Czechia_nvd,Czech Republic,4,23.08.2000,V Demianová
+0,390997,16.722222,49.171667,Czechia_nvd,Czech Republic,4,10.08.1999,V Demianová
+0,390876,15.985833,49.210278,Czechia_nvd,Czech Republic,2,19.08.1999,V Demianová
+0,390151,16.3875,49.098333,Czechia_nvd,Czech Republic,16,18.08.1999,T Vymyslický
+0,389608,16.924444,49.193333,Czechia_nvd,Czech Republic,16,08.07.2002,Z Otýpková
+0,389107,17.319444,48.858611,Czechia_nvd,Czech Republic,16,29.05.1998,Z Otýpková
+0,388503,14.783611,49.193056,Czechia_nvd,Czech Republic,25,01.08.2002,P Hájková
+0,388308,17.373333,48.820278,Czechia_nvd,Czech Republic,10,01.01.1997,M Hájek
+0,388285,17.374444,48.8325,Czechia_nvd,Czech Republic,16,14.06.1995,K Kopecký
+0,388284,17.374444,48.8325,Czechia_nvd,Czech Republic,16,15.06.1995,K Kopecký
+0,388039,17.363056,48.845,Czechia_nvd,Czech Republic,10,09.06.1996,K Kopecký
+0,385845,14.002778,48.869444,Czechia_nvd,Czech Republic,20,01.06.1982,J Klika
+0,385844,13.970833,48.863889,Czechia_nvd,Czech Republic,15,01.06.1982,J Klika
+0,381148,15.728056,49.1975,Czechia_nvd,Czech Republic,16,03.06.1986,E Balátová-Tuláčková
+0,379180,16.066111,48.9525,Czechia_nvd,Czech Republic,25,10.07.1996,M Rafajová
+0,379168,16.058056,48.940278,Czechia_nvd,Czech Republic,25,18.05.1997,M Rafajová
+0,378765,16.638889,48.859722,Czechia_nvd,Czech Republic,10,01.01.1930,J Klika
+0,378741,16.630556,48.788889,Czechia_nvd,Czech Republic,20,01.01.1930,J Klika
+0,378722,16.643056,48.944444,Czechia_nvd,Czech Republic,32,01.01.1930,J Klika
+0,378628,16.645833,48.806944,Czechia_nvd,Czech Republic,25,01.08.1970,M Toman
+0,378528,16.749167,48.775278,Czechia_nvd,Czech Republic,25,27.07.1999,J Danihelka
+0,378439,16.686389,48.801111,Czechia_nvd,Czech Republic,25,13.09.1997,J Danihelka
+0,378420,16.791111,48.833611,Czechia_nvd,Czech Republic,25,25.05.1997,J Danihelka
+0,378412,16.792778,48.815556,Czechia_nvd,Czech Republic,25,24.05.1997,J Danihelka
+0,378400,16.628889,48.8275,Czechia_nvd,Czech Republic,25,07.09.1997,J Danihelka
+0,378354,16.552778,48.847222,Czechia_nvd,Czech Republic,25,05.08.1997,J Danihelka
+0,378345,16.635556,48.858889,Czechia_nvd,Czech Republic,25,04.08.1997,J Danihelka
+0,378328,16.561389,48.838056,Czechia_nvd,Czech Republic,15,30.07.1997,J Danihelka
+0,378131,16.693611,48.763333,Czechia_nvd,Czech Republic,25,23.06.1994,J Danihelka
+0,378088,16.658889,48.874167,Czechia_nvd,Czech Republic,12.5,06.08.1996,J Danihelka
+0,377262,14.165278,49.158611,Czechia_nvd,Czech Republic,16,14.07.2003,K Šumberová
+0,375559,16.94,48.965278,Czechia_nvd,Czech Republic,4,27.07.2007,K Šumberová
+0,375358,16.964444,48.707222,Czechia_nvd,Czech Republic,25,18.05.1997,J Vicherek
+0,374639,16.930556,48.653611,Czechia_nvd,Czech Republic,25,29.07.1996,V Řehořek
+0,374438,16.940556,48.619167,Czechia_nvd,Czech Republic,25,29.06.1996,K Šumberová
+0,373472,15.588889,49.178056,Czechia_nvd,Czech Republic,15,27.08.1977,J Zlámalík
+0,373467,15.529722,49.151389,Czechia_nvd,Czech Republic,10,15.07.1976,J Zlámalík
+0,373451,15.641389,49.168889,Czechia_nvd,Czech Republic,15,14.07.1977,J Zlámalík
+0,373427,15.608333,49.191111,Czechia_nvd,Czech Republic,10,31.08.1977,J Zlámalík
+0,373418,15.580833,49.155,Czechia_nvd,Czech Republic,10,17.08.1977,J Zlámalík
+0,371794,15.364167,49.191111,Czechia_nvd,Czech Republic,20,06.06.1975,E Balátová-Tuláčková
+0,371007,14.705556,49.401944,Czechia_nvd,Czech Republic,1,01.01.1970,V Míka
+0,370911,16.531389,48.822778,Czechia_nvd,Czech Republic,4,27.07.1993,M Hanušová
+0,368460,17.151389000000002,48.858889,Czechia_nvd,Czech Republic,9,06.06.2003,Z Otýpková
+0,368248,16.650833,48.865833,Czechia_nvd,Czech Republic,25,06.06.1984,J Unar
+0,368181,15.127222,49.116111,Czechia_nvd,Czech Republic,100,01.01.1959,B Válek
+0,368179,15.131667,49.138056,Czechia_nvd,Czech Republic,30,01.01.1959,B Válek
+0,368148,15.127222,49.116111,Czechia_nvd,Czech Republic,100,01.01.1959,B Válek
+0,367375,14.281111,49.091667,Czechia_nvd,Czech Republic,10,13.07.1968,K Kopecký
+0,364578,14.728889,49.046111,Czechia_nvd,Czech Republic,16,15.08.1981,R Hlaváček
+0,364143,16.166111,49.110556,Czechia_nvd,Czech Republic,16,28.06.1962,M Ráčilová
+0,364117,16.166111,49.110556,Czechia_nvd,Czech Republic,16,15.06.1963,M Ráčilová
+0,364111,16.166111,49.110556,Czechia_nvd,Czech Republic,16,04.06.1963,M Ráčilová
+0,364109,16.166111,49.110556,Czechia_nvd,Czech Republic,16,04.06.1963,M Ráčilová
+0,364099,16.166111,49.110556,Czechia_nvd,Czech Republic,16,20.06.1963,M Ráčilová
+0,364095,16.166111,49.110556,Czechia_nvd,Czech Republic,16,15.06.1963,M Ráčilová
+0,364092,16.166111,49.110556,Czechia_nvd,Czech Republic,16,04.06.1963,M Ráčilová
+0,364090,16.166111,49.110556,Czechia_nvd,Czech Republic,16,04.06.1963,M Ráčilová
+0,363070,16.822947,48.791289,Czechia_nvd,Czech Republic,25,01.01.1963,J Vicherek
+0,361887,14.347778,49.078333,Czechia_nvd,Czech Republic,16,04.07.1934,B Jílek
+0,360200,16.638889,48.840278,Czechia_nvd,Czech Republic,9,01.06.1966,J Unar
+0,360192,16.635278,48.840833,Czechia_nvd,Czech Republic,2,03.09.1966,J Unar
+0,360172,16.638889,48.845833,Czechia_nvd,Czech Republic,4,16.06.1966,J Unar
+0,358624,16.552222,49.233056,Czechia_nvd,Czech Republic,35,01.01.1989,F Grüll
+0,358440,16.755278,49.191944,Czechia_nvd,Czech Republic,10,01.07.1976,F Grüll
+0,358075,14.266111,49.126667,Czechia_nvd,Czech Republic,25,01.01.1991,A Albrechtová
+0,356080,14.3525,49.071389,Czechia_nvd,Czech Republic,20,01.01.1961,D Blažková
+0,354846,13.512778,49.143611,Czechia_nvd,Czech Republic,100,06.07.1967,J Sofron
+0,354825,15.551389,49.340278,Czechia_nvd,Czech Republic,25,17.06.1962,K Rybníček
+0,354053,17.018056,49.129167,Czechia_nvd,Czech Republic,10,17.08.1957,F Grüll
+0,353903,16.675,49.190278,Czechia_nvd,Czech Republic,16,22.08.1967,J Unar
+0,350883,14.323889,48.887778,Czechia_nvd,Czech Republic,2,18.08.1995,A Vydrová
+0,350006,16.675,49.216667,Czechia_nvd,Czech Republic,36,04.06.1975,J Unar
+0,349993,16.715278,49.229167,Czechia_nvd,Czech Republic,25,17.07.1974,J Unar
+0,349955,16.673611,49.216667,Czechia_nvd,Czech Republic,8,18.06.1974,J Unar
+0,345500,13.511111,49.054167,Czechia_nvd,Czech Republic,8,16.07.1976,M Šandová
+0,344254,15.5625,49.345833,Czechia_nvd,Czech Republic,6,30.07.1960,K Rybníček
+0,342300,15.806111,49.205833,Czechia_nvd,Czech Republic,16,22.06.1967,E Balátová-Tuláčková
+0,342290,16.044722,49.236111,Czechia_nvd,Czech Republic,10,15.07.1967,E Balátová-Tuláčková
+0,342028,16.649444,48.868056,Czechia_nvd,Czech Republic,100,18.06.1961,J Šmarda
+0,342025,16.654167,48.8725,Czechia_nvd,Czech Republic,100,01.06.1961,J Šmarda
+0,342013,16.649167,48.866944,Czechia_nvd,Czech Republic,10,02.04.1965,J Šmarda
+0,341632,16.709417,48.957722,Czechia_nvd,Czech Republic,16,01.01.1960,J Vicherek
+0,341629,16.751333,48.907,Czechia_nvd,Czech Republic,16,01.01.1963,J Vicherek
+0,341618,16.680731,48.981394,Czechia_nvd,Czech Republic,4,01.01.1965,J Vicherek
+0,338397,14.785278,48.938333,Czechia_nvd,Czech Republic,20,16.06.1965,D Blažková
+0,338394,14.638889,49.045,Czechia_nvd,Czech Republic,30,19.06.1963,D Blažková
+0,338386,14.336389,49.086389,Czechia_nvd,Czech Republic,25,18.06.1965,D Blažková
+0,338368,14.645278,49.104167,Czechia_nvd,Czech Republic,20,02.06.1965,D Blažková
+0,338363,14.356667,49.056389,Czechia_nvd,Czech Republic,25,05.06.1962,D Blažková
+0,338342,14.258056,49.041111,Czechia_nvd,Czech Republic,25,31.05.1965,D Blažková
+0,338332,14.333333,49.070833,Czechia_nvd,Czech Republic,25,04.06.1965,D Blažková
+0,338329,14.388889,49.008889,Czechia_nvd,Czech Republic,25,18.06.1963,D Blažková
+0,338321,14.438056,49.015,Czechia_nvd,Czech Republic,25,30.06.1965,D Blažková
+0,338320,14.443333,49.015,Czechia_nvd,Czech Republic,25,28.05.1964,D Blažková
+0,338309,14.861667,48.952222,Czechia_nvd,Czech Republic,25,14.06.1963,D Blažková
+0,338305,14.860556,48.983611,Czechia_nvd,Czech Republic,25,25.06.1964,D Blažková
+0,338287,14.706944,49.178611,Czechia_nvd,Czech Republic,25,26.05.1964,D Blažková
+0,338247,14.864444,48.9625,Czechia_nvd,Czech Republic,16,14.06.1963,D Blažková
+0,338244,14.784722,48.996111,Czechia_nvd,Czech Republic,25,20.06.1963,D Blažková
+0,338232,14.419167,49.063333,Czechia_nvd,Czech Republic,25,12.06.1963,D Blažková
+0,338222,14.494167,49.010833,Czechia_nvd,Czech Republic,20,27.05.1964,D Blažková
+0,338218,14.296389,49.092222,Czechia_nvd,Czech Republic,25,13.06.1962,D Blažková
+0,338202,14.114444,49.138056,Czechia_nvd,Czech Republic,20,05.07.1964,D Blažková
+0,338169,14.299444,49.024167,Czechia_nvd,Czech Republic,25,20.06.1965,D Blažková
+0,338161,14.314444,49.083889,Czechia_nvd,Czech Republic,25,24.06.1960,D Blažková
+0,335866,14.675,48.751389,Czechia_nvd,Czech Republic,16,01.07.1978,E Balátová-Tuláčková
+0,335858,14.6375,48.718056,Czechia_nvd,Czech Republic,12,29.06.1978,E Balátová-Tuláčková
+0,335841,14.486111,48.655556,Czechia_nvd,Czech Republic,16,22.07.1978,E Balátová-Tuláčková
+0,335817,14.641667,48.655556,Czechia_nvd,Czech Republic,6,20.07.1978,E Balátová-Tuláčková
+0,335816,14.740278,48.772222,Czechia_nvd,Czech Republic,18,23.06.1975,E Balátová-Tuláčková
+0,335584,14.103611,48.640278,Czechia_nvd,Czech Republic,14,22.07.1978,E Balátová-Tuláčková
+0,335577,13.952778,48.833333,Czechia_nvd,Czech Republic,16,20.06.1982,E Balátová-Tuláčková
+0,335573,13.568056,49.038889,Czechia_nvd,Czech Republic,16,13.08.1977,E Balátová-Tuláčková
+0,335484,15.129167,49.006944,Czechia_nvd,Czech Republic,16,17.07.1978,E Balátová-Tuláčková
+0,335082,16.921111,48.992778,Czechia_nvd,Czech Republic,25,17.05.1992,M Chytrý
+0,334973,13.809167,49.054167,Czechia_nvd,Czech Republic,25,17.06.1957,J Moravec
+0,334964,13.700278,49.068611,Czechia_nvd,Czech Republic,25,05.07.1957,J Moravec
+0,334954,13.877222,49.0625,Czechia_nvd,Czech Republic,25,10.07.1956,J Moravec
+0,334953,13.763333,49.061667,Czechia_nvd,Czech Republic,25,16.06.1956,J Moravec
+0,334952,13.823056,49.026667,Czechia_nvd,Czech Republic,25,06.07.1957,J Moravec
+0,334948,13.911944,49.002778,Czechia_nvd,Czech Republic,18,14.06.1957,J Moravec
+0,334934,13.878056,49.048889,Czechia_nvd,Czech Republic,12,22.06.1959,J Moravec
+0,334922,13.863056,49.021944,Czechia_nvd,Czech Republic,25,07.07.1957,J Moravec
+0,334920,13.800556,48.944167,Czechia_nvd,Czech Republic,25,19.06.1956,J Moravec
+0,334919,13.755278,49.066944,Czechia_nvd,Czech Republic,25,07.06.1956,J Moravec
+0,334910,13.795833,49.089722,Czechia_nvd,Czech Republic,25,04.06.1956,J Moravec
+0,334903,13.556111,49.059722,Czechia_nvd,Czech Republic,25,03.07.1957,J Moravec
+0,334898,13.765,49.001667,Czechia_nvd,Czech Republic,25,04.07.1957,J Moravec
+0,334886,13.808889,49.083333,Czechia_nvd,Czech Republic,25,15.06.1957,J Moravec
+0,334885,13.910556,49.016389,Czechia_nvd,Czech Republic,25,15.06.1957,J Moravec
+0,334604,15.7825,48.971944,Czechia_nvd,Czech Republic,16,14.06.1987,E Balátová-Tuláčková
+0,334586,15.883056,48.887222,Czechia_nvd,Czech Republic,20,09.06.1989,E Balátová-Tuláčková
+0,334239,17.425,48.825,Czechia_nvd,Slovak Republic,16,09.07.1970,V Tlusták
+0,334234,17.416667,48.858333,Czechia_nvd,Czech Republic,16,14.07.1971,V Tlusták
+0,334171,17.333333,48.844444,Czechia_nvd,Czech Republic,16,15.06.1971,V Tlusták
+0,333617,17.141667,48.888611,Czechia_nvd,Czech Republic,16,15.05.2002,M Chytrý
+0,333591,14.0925,48.949167,Czechia_nvd,Czech Republic,16,25.05.2001,M Chytrý
+0,333448,16.660278,48.808889,Czechia_nvd,Czech Republic,20,26.08.1997,M Chytrý
+0,333432,16.518583,48.798528,Czechia_nvd,Czech Republic,25,16.07.1997,M Chytrý
+0,333382,16.175,49.098889,Czechia_nvd,Czech Republic,25,07.10.1995,M Chytrý
+0,332984,17.141667,48.890278,Czechia_nvd,Czech Republic,16,22.05.1971,M Chytrý
+0,332983,17.216667,48.901389,Czechia_nvd,Czech Republic,16,19.05.1971,M Chytrý
+0,332860,15.9425,48.753944,Czechia_nvd,Austria,20,28.07.1982,M Chytrý
+0,332854,15.970222,48.791694,Czechia_nvd,Austria,25,16.07.1991,M Chytrý
+0,332848,15.983694,48.822333,Czechia_nvd,Czech Republic,36,04.05.1990,M Chytrý
+0,332725,16.098611,48.938083,Czechia_nvd,Czech Republic,36,13.08.1987,M Chytrý
+0,332705,16.519972,49.232833,Czechia_nvd,Czech Republic,16,28.07.1987,M Chytrý
+0,332672,16.359361,48.983833,Czechia_nvd,Czech Republic,9,29.08.1988,M Chytrý
+0,332652,15.941306,48.761583,Czechia_nvd,Austria,25,23.07.1992,M Chytrý
+0,332631,16.324417,49.122028,Czechia_nvd,Czech Republic,49,21.07.1987,M Chytrý
+0,332627,15.850417,48.841472,Czechia_nvd,Austria,6,19.07.1992,M Chytrý
+0,332585,15.630803,48.873961,Czechia_nvd,Austria,16,13.06.1993,L Tichý
+0,332584,15.581508,48.846467,Czechia_nvd,Austria,16,06.07.1993,L Tichý
+0,332569,15.63,48.875278,Czechia_nvd,Austria,20,30.05.1985,L Tichý
+0,332558,15.767222,48.935833,Czechia_nvd,Czech Republic,8,21.05.1994,L Tichý
+0,332533,15.823611,48.823611,Czechia_nvd,Austria,25,16.07.1992,M Chytrý
+0,332507,15.814444,48.813333,Czechia_nvd,Austria,25,22.07.1994,M Chytrý
+0,332499,15.891389,48.842778,Czechia_nvd,Austria,20,24.07.1992,M Chytrý
+0,332492,15.847222,48.836389,Czechia_nvd,Austria,25,16.07.1992,M Chytrý
+0,332489,15.844444,48.841389,Czechia_nvd,Austria,25,17.07.1992,M Chytrý
+0,332488,15.848611,48.843056,Czechia_nvd,Austria,25,16.07.1992,M Chytrý
+0,332468,15.802778,48.825,Czechia_nvd,Austria,25,14.05.1993,M Chytrý
+0,332455,15.906944,48.794444,Czechia_nvd,Austria,25,14.05.1993,M Chytrý
+0,332439,15.886111,48.826389,Czechia_nvd,Austria,25,13.05.1993,M Chytrý
+0,332431,15.875,48.859722,Czechia_nvd,Austria,25,13.05.1993,M Chytrý
+0,332249,16.84975,48.95525,Czechia_nvd,Czech Republic,25,19.06.1996,M Chytrý
+0,331891,16.318611,49.064444,Czechia_nvd,Czech Republic,16,16.06.1966,M Chytrý
+0,331882,16.319444,49.048333,Czechia_nvd,Czech Republic,16,20.06.1966,M Chytrý
+0,331862,16.185833,49.106944,Czechia_nvd,Czech Republic,25,02.06.1993,M Chytrý
+0,331860,16.1925,49.104444,Czechia_nvd,Czech Republic,16,14.06.1967,M Chytrý
+0,331815,16.200833,49.0975,Czechia_nvd,Czech Republic,9,18.06.1967,M Chytrý
+0,331811,16.237778,49.099167,Czechia_nvd,Czech Republic,16,02.06.1993,M Chytrý
+0,331797,16.2775,49.095556,Czechia_nvd,Czech Republic,16,11.06.1967,M Chytrý
+0,331769,16.319167,49.051389,Czechia_nvd,Czech Republic,2,22.05.1966,M Chytrý
+0,331744,16.203333,49.099444,Czechia_nvd,Czech Republic,25,02.06.1993,M Chytrý
+0,330936,15.05385,49.197253,Czechia_nvd,Czech Republic,25,16.05.2015,K Boublík
+0,330761,13.870833,49.139722,Czechia_nvd,Czech Republic,25,10.06.2008,K Boublík
+0,330610,14.451944,49.074722,Czechia_nvd,Czech Republic,25,25.06.2006,K Boublík
+0,330591,15.054167,49.155278,Czechia_nvd,Czech Republic,25,21.05.2006,K Boublík
+0,330197,14.895278,48.898889,Czechia_nvd,Czech Republic,6,20.05.2004,K Boublík
+0,330181,14.951111,48.8225,Czechia_nvd,Czech Republic,2,19.05.2004,K Boublík
+0,330150,14.761944,49.071111,Czechia_nvd,Czech Republic,15,17.05.2004,K Boublík
+0,329986,14.237222,48.765833,Czechia_nvd,Czech Republic,40,24.06.2003,K Boublík
+0,329890,14.8425,48.745278,Czechia_nvd,Austria,6,19.10.2002,K Boublík
+0,329790,16.246389,49.096944,Czechia_nvd,Czech Republic,18,15.05.2002,K Boublík
+0,329581,15.1375,49.114444,Czechia_nvd,Czech Republic,16,18.06.2000,K Boublík
+0,329567,15.431944,49.063611,Czechia_nvd,Czech Republic,15,11.09.2000,K Boublík
+0,325294,16.960694,49.151917,Czechia_nvd,Czech Republic,16,19.06.2018,V Sedláček
+0,325179,16.259194,49.10475,Czechia_nvd,Czech Republic,16,23.05.2014,V Sedláček
+0,324682,16.809917,48.852944,Czechia_nvd,Czech Republic,16,01.01.1960,J Vicherek
+0,323526,15.963889,48.883889,Czechia_nvd,Czech Republic,1,23.07.2002,D Simonová
+0,323366,17.4376,48.873067,Czechia_nvd,Czech Republic,25,04.06.2013,I Jongepierová
+0,323281,17.32775,48.862861,Czechia_nvd,Czech Republic,25,30.05.2012,I Jongepierová
+0,322934,16.542222,48.825833,Czechia_nvd,Czech Republic,16,06.09.2004,J Novák
+0,322225,16.053139,48.994306,Czechia_nvd,Czech Republic,4,01.07.2007,K Žáková
+0,322194,16.093167,48.782556,Czechia_nvd,Czech Republic,4,24.06.2007,K Žáková
+0,321924,17.345278,48.98025,Czechia_nvd,Czech Republic,16,18.07.2005,V Kalusová
+0,321521,14.440833,49.189167,Czechia_nvd,Czech Republic,25,10.06.1982,D Blažková
+0,321145,14.740194,49.05875,Czechia_nvd,Czech Republic,16,16.05.2005,J Navrátilová
+0,320587,15.490389,49.192111,Czechia_nvd,Czech Republic,16,07.07.2004,K Merunková
+0,320535,15.29475,49.251167,Czechia_nvd,Czech Republic,16,26.06.2004,K Merunková
+0,319103,14.438611,49.273056,Czechia_nvd,Czech Republic,15,05.04.2002,J Douda
+0,318862,14.514722,49.315,Czechia_nvd,Czech Republic,20,08.06.2001,J Douda
+0,318485,14.585833,49.336667,Czechia_nvd,Czech Republic,25,07.07.2001,J Douda
+0,317677,14.090833,49.123333,Czechia_nvd,Czech Republic,100,18.06.1949,S Hejný
+0,317356,14.177222,49.106111,Czechia_nvd,Czech Republic,50,01.06.1947,S Hejný
+0,317351,14.180556,49.124444,Czechia_nvd,Czech Republic,15,01.06.1947,S Hejný
+0,316882,14.252667,48.931306,Czechia_nvd,Czech Republic,16,10.06.2006,M Lepší
+0,316787,16.098889,49.282222,Czechia_nvd,Czech Republic,16,29.07.2003,J Urbánková
+0,315127,14.005833,48.716667,Czechia_nvd,Czech Republic,16,15.07.2005,Z Urbanová
+0,313667,16.635556,48.865528,Czechia_nvd,Czech Republic,1,22.03.2015,D Hlisnikovský
+0,312545,15.307889,49.222361,Czechia_nvd,Czech Republic,20,29.06.2005,E Ekrtová
+0,312239,16.939556,48.964694,Czechia_nvd,Czech Republic,16,22.09.2015,P Novák
+0,312023,13.663611,49.047778,Czechia_nvd,Czech Republic,15,26.06.1959,J Moravec
+0,312015,13.811389,49.079444,Czechia_nvd,Czech Republic,25,06.06.1956,J Moravec
+0,312014,13.78,49.066667,Czechia_nvd,Czech Republic,25,05.06.1956,J Moravec
+0,312012,13.8825,48.986944,Czechia_nvd,Czech Republic,9,26.06.1955,J Moravec
+0,312010,13.7775,48.997222,Czechia_nvd,Czech Republic,16,23.06.1955,J Moravec
+0,308116,14.713892,49.210592,Czechia_nvd,Czech Republic,9,03.07.2009,R Višňák
+0,307862,13.562331,49.056861,Czechia_nvd,Czech Republic,16,02.08.2000,E Ekrtová
+0,307856,13.523744,49.031706,Czechia_nvd,Czech Republic,16,12.08.2001,E Ekrtová
+0,302790,15.1532,49.120867,Czechia_nvd,Czech Republic,4,08.06.2010,B Čepelová
+0,302788,15.156414,49.122536,Czechia_nvd,Czech Republic,4,07.06.2010,B Čepelová
+0,301838,13.66,49.19,Czechia_nvd,Czech Republic,30,26.06.2003,I Matějková
+0,300940,16.968333,48.970778,Czechia_nvd,Czech Republic,16,02.07.2002,I Skácelová
+0,300064,16.680731,48.981394,Czechia_nvd,Czech Republic,4,01.01.1960,J Vicherek
+0,300055,16.709417,48.957722,Czechia_nvd,Czech Republic,16,01.01.1960,J Vicherek
+0,300028,16.821497,48.866844,Czechia_nvd,Czech Republic,16,01.01.1960,J Vicherek
+0,300024,16.821497,48.866844,Czechia_nvd,Czech Republic,16,01.01.1960,J Vicherek
+0,300023,16.821497,48.866844,Czechia_nvd,Czech Republic,16,01.01.1960,J Vicherek
+0,300009,16.935264,48.974778,Czechia_nvd,Czech Republic,16,01.01.1960,J Vicherek
+0,297052,16.035833,48.812778,Czechia_nvd,Czech Republic,20,01.01.1984,F Grüll
+0,296925,16.664167,49.226667,Czechia_nvd,Czech Republic,25,01.01.1988,F Grüll
+0,296895,17.001111,49.005833,Czechia_nvd,Czech Republic,50,15.08.1985,F Grüll
+0,296832,16.957778,49.151389,Czechia_nvd,Czech Republic,20,18.08.1992,F Grüll
+0,296830,16.957778,49.151389,Czechia_nvd,Czech Republic,20,28.05.1992,F Grüll
+0,296805,16.957778,49.151389,Czechia_nvd,Czech Republic,25,01.01.1991,F Grüll
+0,296802,16.957778,49.151389,Czechia_nvd,Czech Republic,20,01.01.1991,F Grüll
+0,296353,14.696667,48.600278,Czechia_nvd,Czech Republic,25,19.07.2004,D Blažková
+0,295955,16.923333,49.195833,Czechia_nvd,Czech Republic,16,08.07.1975,V Tlusták
+0,294070,16.558611,49.056939,Czechia_nvd,Czech Republic,4,26.04.2007,H Lukšíková
+0,293796,13.483217,49.090233,Czechia_nvd,Czech Republic,16,16.08.2006,M Hejda
+0,287659,14.474722,49.293333,Czechia_nvd,Czech Republic,6,28.07.1980,E Hadač
+0,92525,14.085685,48.170722,Austria_VINCA,Austria,24,20.05.2010,R Kaiser
+0,92346,14.356719,48.423014,Austria_VINCA,Austria,25,12.07.2012,R Kaiser
+0,92341,14.106173,48.461289,Austria_VINCA,Austria,25,12.07.2012,R Kaiser
+0,88976,13.537526,48.481208,Austria_VINCA,Austria,100,15.08.2007,R Kaiser
+0,86684,14.92999,48.467998,Austria_VINCA,Austria,25,11.06.2014,V Grass
+0,86683,14.946261,48.462493,Austria_VINCA,Austria,25,11.06.2014,V Grass
+0,86677,14.84983,48.53997,Austria_VINCA,Austria,25,12.06.2014,H Rötzer
+0,84475,14.61496,48.48513,Austria_VINCA,Austria,16,27.06.1991,T Ellmauer
+0,84423,15.19706,48.32044,Austria_VINCA,Austria,12,15.06.1991,T Ellmauer
+0,84371,14.3419,48.16005,Austria_VINCA,Austria,16,05.06.1991,T Ellmauer
+0,84353,14.52888,48.35542,Austria_VINCA,Austria,16,06.06.1991,T Ellmauer
+0,83907,14.61847,48.59144,Austria_VINCA,Austria,20,20.06.1992,G Pils
+0,83905,14.63079,48.56576,Austria_VINCA,Austria,20,20.06.1992,G Pils
+0,83891,14.74735,48.34565,Austria_VINCA,Austria,100,27.09.1992,G Pils
+0,83890,14.94467,48.32779,Austria_VINCA,Austria,50,21.09.1992,G Pils
+0,83881,14.61576,48.46936,Austria_VINCA,Austria,50,14.06.1992,G Pils
+0,83805,14.39917,48.12303,Austria_VINCA,Austria,50,23.05.2000,F Essl
+0,83799,14.40472,48.14867,Austria_VINCA,Austria,50,24.04.1994,F Essl
+0,83798,14.39936,48.13381,Austria_VINCA,Austria,60,24.04.1994,F Essl
+0,83796,14.44214,48.17611,Austria_VINCA,Austria,40,22.05.2000,F Essl
+0,83791,14.41572,48.19403,Austria_VINCA,Austria,50,24.04.1994,F Essl
+0,83788,14.40414,48.13006,Austria_VINCA,Austria,40,24.04.1994,F Essl
+0,83752,15.16919,48.32825,Austria_VINCA,Austria,10,20.07.1977,E Balátová-Tuláčková
+0,83747,14.69866,48.4528,Austria_VINCA,Austria,10,15.07.1981,E Balátová-Tuláčková
+0,83746,14.7478,48.53305,Austria_VINCA,Austria,10,14.07.1981,E Balátová-Tuláčková
+0,83745,15.16688,48.57125,Austria_VINCA,Austria,10,08.07.1981,E Balátová-Tuláčková
+0,83736,15.0897,48.7277,Austria_VINCA,Austria,14,10.07.1981,E Balátová-Tuláčková
+0,83730,16.4313,48.53066,Austria_VINCA,Austria,16,15.07.1977,E Balátová-Tuláčková
+0,83721,14.80422,48.57986,Austria_VINCA,Austria,16,05.07.1975,E Balátová-Tuláčková
+0,83720,14.67933,48.5605,Austria_VINCA,Austria,16,13.07.1981,E Balátová-Tuláčková
+0,83718,14.70144,48.51405,Austria_VINCA,Austria,16,14.07.1981,E Balátová-Tuláčková
+0,83716,14.96525,48.79394,Austria_VINCA,Austria,16,11.07.1981,E Balátová-Tuláčková
+0,83715,13.98861,48.51933,Austria_VINCA,Austria,16,15.07.1981,E Balátová-Tuláčková
+0,83710,14.63833,48.53241,Austria_VINCA,Austria,16,14.07.1981,E Balátová-Tuláčková
+0,83708,14.67633,48.52411,Austria_VINCA,Austria,20,14.07.1981,E Balátová-Tuláčková
+0,83707,15.01119,48.39116,Austria_VINCA,Austria,18,20.07.1977,E Balátová-Tuláčková
+0,83706,15.15566,48.37391,Austria_VINCA,Austria,20,20.07.1977,E Balátová-Tuláčková
+0,83704,14.84205,48.65833,Austria_VINCA,Austria,16,19.07.1977,E Balátová-Tuláčková
+0,83703,14.58361,48.58197,Austria_VINCA,Austria,16,13.07.1981,E Balátová-Tuláčková
+0,83702,14.99813,48.76705,Austria_VINCA,Austria,10,11.07.1981,E Balátová-Tuláčková
+0,83701,14.84102,48.72072,Austria_VINCA,Austria,16,12.07.1981,E Balátová-Tuláčková
+0,83700,15.19569,48.31425,Austria_VINCA,Austria,20,07.07.1981,E Balátová-Tuláčková
+0,83698,14.79658,48.70008,Austria_VINCA,Austria,16,09.07.1981,E Balátová-Tuláčková
+0,83696,15.40972,48.8848,Austria_VINCA,Austria,16,18.07.1977,E Balátová-Tuláčková
+0,83693,15.09891,48.87133,Austria_VINCA,Austria,20,19.07.1977,E Balátová-Tuláčková
+0,83692,15.16597,48.5675,Austria_VINCA,Austria,16,08.07.1981,E Balátová-Tuláčková
+0,83691,14.79205,48.70813,Austria_VINCA,Austria,16,09.07.1981,E Balátová-Tuláčková
+0,83690,15.089,48.99047,Austria_VINCA,Austria,16,18.07.1977,E Balátová-Tuláčková
+0,83688,15.14277,48.94775,Austria_VINCA,Austria,16,18.07.1977,E Balátová-Tuláčková
+0,83687,15.037,48.7768,Austria_VINCA,Austria,16,19.07.1977,E Balátová-Tuláčková
+0,83681,14.89566,48.71077,Austria_VINCA,Austria,16,12.07.1981,E Balátová-Tuláčková
+0,83476,14.66517,48.24471,Austria_VINCA,Austria,50,21.09.2001,F Essl
+0,83473,14.43662,48.2681,Austria_VINCA,Austria,40,29.07.2001,F Essl
+0,83469,14.40969,48.26055,Austria_VINCA,Austria,50,05.09.1995,F Essl
+0,83467,14.5366,48.25779,Austria_VINCA,Austria,40,13.05.2001,F Essl
+0,83466,14.74307,48.21204,Austria_VINCA,Austria,50,13.05.2001,F Essl
+0,83461,14.40893,48.26287,Austria_VINCA,Austria,40,06.05.1999,F Essl
+0,83459,14.69609,48.23162,Austria_VINCA,Austria,10,13.06.2001,F Essl
+0,83453,14.19214,48.3112,Austria_VINCA,Austria,50,16.10.1994,F Essl
+0,83450,14.1844,48.31092,Austria_VINCA,Austria,50,16.10.1994,F Essl
+0,83449,14.1855,48.31342,Austria_VINCA,Austria,50,16.10.1994,F Essl
+0,83443,14.18691,48.30617,Austria_VINCA,Austria,50,16.10.1994,F Essl
+0,83442,14.20623,48.2933,Austria_VINCA,Austria,40,16.10.1994,F Essl
+0,83441,14.20089,48.28385,Austria_VINCA,Austria,50,16.10.1994,F Essl
+0,83439,14.18573,48.2712,Austria_VINCA,Austria,50,06.05.1999,F Essl
+0,83433,14.50676,48.21267,Austria_VINCA,Austria,30,17.06.1995,F Essl
+0,61745,15.93654,48.42181,Austria_VINCA,Austria,20,02.06.2017,G Kadlec
+0,61721,16.62455,48.42881,Austria_VINCA,Austria,20,21.07.2017,N Helm
+0,61716,16.66477,48.75916,Austria_VINCA,Austria,20,18.06.2017,N Helm
+0,61711,16.33147,48.6495,Austria_VINCA,Austria,20,21.07.2017,N Helm
+0,61677,15.562813,48.424135,Austria_VINCA,Austria,20,12.08.2017,N Helm
+0,61664,16.39618,48.57469,Austria_VINCA,Austria,20,19.06.2017,N Helm
+0,61617,15.97016,48.3492,Austria_VINCA,Austria,20,14.06.2017,G Kadlec
+0,61615,15.943,48.3628,Austria_VINCA,Austria,20,14.06.2017,G Kadlec
+0,61609,15.68016,48.54626,Austria_VINCA,Austria,20,11.06.2017,G Kadlec
+0,61597,15.93427,48.76048,Austria_VINCA,Austria,20,13.06.2017,G Kadlec
+0,61503,16.875557,48.290011,Austria_VINCA,Austria,25,10.05.2017,M Staudinger
+0,60302,16.16798,48.64915,Austria_VINCA,Austria,25,21.06.2016,N Sauberer
+0,60186,15.01881,48.54427,Austria_VINCA,Austria,24,14.05.2015,M Staudinger
+0,60183,15.071083,48.5395,Austria_VINCA,Austria,25,14.05.2015,M Staudinger
+0,60181,15.110767,48.5359,Austria_VINCA,Austria,25,13.05.2015,M Staudinger
+0,60176,15.2211,48.5298,Austria_VINCA,Austria,25,13.05.2015,M Staudinger
+0,60175,15.236533,48.5295,Austria_VINCA,Austria,25,13.05.2015,M Staudinger
+0,60174,15.14263,48.52849,Austria_VINCA,Austria,100,13.05.2015,M Staudinger
+0,60163,15.24297,48.5297,Austria_VINCA,Austria,25,12.05.2015,M Staudinger
+0,60160,15.25172,48.52791,Austria_VINCA,Austria,25,12.05.2015,M Staudinger
+0,60158,15.2769,48.52705,Austria_VINCA,Austria,25,12.05.2015,M Staudinger
+0,60154,15.33964,48.52457,Austria_VINCA,Austria,25,12.05.2015,M Staudinger
+0,58890,16.21225,48.37069,Austria_VINCA,Austria,10,26.05.1990,A Starka
+0,58888,16.22831,48.37394,Austria_VINCA,Austria,10,25.05.1990,A Starka
+0,58887,16.21233,48.36894,Austria_VINCA,Austria,6,26.05.1990,A Starka
+0,58875,16.2248,48.37241,Austria_VINCA,Austria,6,25.05.1990,A Starka
+0,58874,16.23377,48.37575,Austria_VINCA,Austria,6,27.05.1990,A Starka
+0,58867,16.21082,48.37766,Austria_VINCA,Austria,4,14.06.1990,A Starka
+0,58721,16.84995,48.39845,Austria_VINCA,Austria,25,29.05.2013,M Staudinger
+0,58718,16.8474,48.409617,Austria_VINCA,Austria,25,29.05.2013,M Staudinger
+0,58714,16.85445,48.39875,Austria_VINCA,Austria,25,29.05.2013,M Staudinger
+0,58381,16.08201,48.43882,Austria_VINCA,Austria,25,14.07.1996,W Stark
+0,57653,16.89114,48.30086,Austria_VINCA,Austria,20,01.01.2003,E Pauer
+0,57124,15.914352,48.369436,Austria_VINCA,Austria,10,01.07.1996,F Essl
+0,57123,15.96285,48.350425,Austria_VINCA,Austria,40,16.07.1996,F Essl
+0,56627,16.91724,48.27867,Austria_VINCA,Austria,100,02.07.1995,Vegetationsökologie
+0,56626,16.91809,48.57048,Austria_VINCA,Austria,10,15.08.1995,Vegetationsökologie
+0,56620,14.81427,48.55394,Austria_VINCA,Austria,16,01.07.1977,E Balátová-Tuláčková
+0,56612,15.87492,48.71237,Austria_VINCA,Austria,18,01.07.1977,E Balátová-Tuláčková
+0,56610,15.76124,48.84545,Austria_VINCA,Austria,16,01.07.1977,E Balátová-Tuláčková
+0,56607,15.15044,48.37002,Austria_VINCA,Austria,20,01.07.1977,E Balátová-Tuláčková
+0,56600,15.17153,48.32082,Austria_VINCA,Austria,10,01.07.1977,E Balátová-Tuláčková
+0,56133,16.922556,48.534083,Austria_VINCA,Austria,6,08.08.1990,S Plenk
+0,54454,16.290713,48.291851,Austria_VINCA,Austria,100,16.06.2011,T Wrbka
+0,54363,16.287931,48.309506,Austria_VINCA,Austria,100,14.06.2011,T Wrbka
+0,54278,16.256949,48.337834,Austria_VINCA,Austria,100,05.06.2011,T Wrbka
+0,54206,16.1862,48.308338,Austria_VINCA,Austria,25,01.05.2011,V Grass
+0,54199,16.170198,48.303314,Austria_VINCA,Austria,25,01.05.2011,V Grass
+0,54189,16.179947,48.307226,Austria_VINCA,Austria,25,01.05.2011,V Grass
+0,54188,16.216504,48.32083,Austria_VINCA,Austria,25,01.05.2011,V Grass
+0,54170,16.179734,48.305342,Austria_VINCA,Austria,25,01.05.2011,V Grass
+0,54156,16.172254,48.299615,Austria_VINCA,Austria,25,01.05.2011,V Grass
+0,54154,16.159904,48.295228,Austria_VINCA,Austria,25,01.05.2011,V Grass
+0,54146,16.155816,48.295059,Austria_VINCA,Austria,25,01.05.2011,V Grass
+0,54127,16.195427,48.317169,Austria_VINCA,Austria,25,01.05.2011,V Grass
+0,54005,16.175433,48.305781,Austria_VINCA,Austria,25,20.05.2010,M Staudinger
+0,53816,16.238163,48.709068,Austria_VINCA,Austria,10,11.08.2020,J Danihelka
+0,53815,16.236889,48.709579,Austria_VINCA,Austria,10,11.08.2020,J Danihelka
+0,53814,16.234345,48.708282,Austria_VINCA,Austria,10,11.08.2020,J Danihelka
+0,53701,16.5726,48.5603,Austria_VINCA,Austria,20,01.01.2018,M Denner
+0,53697,16.57,48.5599,Austria_VINCA,Austria,20,01.01.2018,M Denner
+0,53621,16.193349,48.31119,Austria_VINCA,Austria,25,05.07.1990,J Huspeka
+0,53586,16.161796,48.297244,Austria_VINCA,Austria,20,28.05.1990,J Huspeka
+0,53553,16.165243,48.300157,Austria_VINCA,Austria,20,02.06.1990,J Huspeka
+0,53063,16.94602,48.17212,Austria_VINCA,Austria,25,07.06.2019,N Sauberer
+0,53021,16.93714,48.17054,Austria_VINCA,Austria,25,23.05.2010,A Beiser
+0,52969,16.98526,48.16552,Austria_VINCA,Austria,25,11.05.2010,M Staudinger
+0,52393,16.9315,48.171884,Austria_VINCA,Austria,15,28.05.1992,L Schratt-Ehrendorfer
+0,52392,16.931778,48.172162,Austria_VINCA,Austria,45,28.05.1992,L Schratt-Ehrendorfer
+0,52231,16.926501,48.169107,Austria_VINCA,Austria,100,07.06.1991,L Schratt-Ehrendorfer
+0,52225,16.943165,48.171885,Austria_VINCA,Austria,40,07.06.1991,L Schratt-Ehrendorfer
+0,52217,16.947887,48.170913,Austria_VINCA,Austria,3,07.06.1991,L Schratt-Ehrendorfer
+0,51594,16.56528,48.765,Austria_VINCA,Austria,100,16.07.1976,J Eijsink
+0,51590,16.34583,48.64417,Austria_VINCA,Austria,100,03.06.1976,J Eijsink
+0,51586,16.35722,48.56056,Austria_VINCA,Austria,8,22.07.1976,J Eijsink
+0,51580,16.582015,48.724637,Austria_VINCA,Austria,100,28.06.1976,J Eijsink
+0,51576,16.45417,48.58139,Austria_VINCA,Austria,10,19.06.1976,J Eijsink
+0,51550,16.3725,48.55917,Austria_VINCA,Austria,25,22.07.1976,J Eijsink
+0,51461,16.36083,48.31806,Austria_VINCA,Austria,9,01.01.1936,J Uhlmann
+0,50596,16.871513,48.295489,Austria_VINCA,Austria,25,20.08.2010,N Sauberer
+0,50595,16.870998,48.294347,Austria_VINCA,Austria,25,20.08.2010,N Sauberer
+0,50592,16.869501,48.29298,Austria_VINCA,Austria,25,20.08.2010,N Sauberer
+0,50589,16.870317,48.295225,Austria_VINCA,Austria,25,20.08.2010,N Sauberer
+0,50390,16.187258,48.312741,Austria_VINCA,Austria,20,04.06.1990,J Huspeka
+0,50384,16.190213,48.309627,Austria_VINCA,Austria,20,04.06.1990,J Huspeka
+0,50374,16.188572,48.313165,Austria_VINCA,Austria,20,05.07.1990,J Huspeka
+0,50332,16.15055,48.297617,Austria_VINCA,Austria,20,12.07.1990,J Huspeka
+1,1401631,16.98556,48.1814087,Slovakia_nvd,Slovak Republic,25,13.07.2024,V Sobotka
+1,1401630,16.9813567,48.1833816,Slovakia_nvd,Slovak Republic,25,14.07.2024,V Sobotka
+1,1401362,17.0430104,48.2622424,Slovakia_nvd,Slovak Republic,25,04.06.2025,J Pleyer
+1,1389586,16.981253,48.183286,Slovakia_nvd,Slovak Republic,25,14.07.2024,D Borovyk
+1,1385622,16.984701,48.182174,Slovakia_nvd,Slovak Republic,25,14.07.2024,D Borovyk
+1,714482,14.936028,48.590694,Germany_gvrd,Austria,30,19.05.2025,N Türk
+1,402458,16.8401476,48.868219,Czechia_nvd,Czech Republic,10,30.06.2025,V Kalusová
+1,401280,15.7142633,48.93448,Czechia_nvd,Czech Republic,20,22.07.2024,M Vymazalová
+1,399965,16.007355,49.261134,Czechia_nvd,Czech Republic,15,03.07.2024,D Borovyk
+1,399600,15.91705,49.2238322,Czechia_nvd,Czech Republic,16,23.07.2024,M Vymazalová
+1,399266,13.55102,49.15382,Czechia_nvd,Czech Republic,16,16.05.2024,P Keil
+1,394944,15.9749989,48.8133224,Czechia_nvd,Czech Republic,16,26.05.2024,J Pleyer
+1,394878,15.8026723,48.8785884,Czechia_nvd,Czech Republic,16,25.05.2024,J Pleyer
+1,393699,16.6465981,48.8782529,Czechia_nvd,Czech Republic,16,03.07.2024,V Sobotka
+1,391125,16.3019773,48.7728263,Czechia_nvd,Czech Republic,4,04.07.2025,Z Preislerová
+1,390997,16.7204542,49.1744425,Czechia_nvd,Czech Republic,4,27.09.2025,M Vymazalová
+1,390876,15.9813133,49.2120719,Czechia_nvd,Czech Republic,2,23.07.2024,M Vymazalová
+1,390151,16.3874897,49.0982489,Czechia_nvd,Czech Republic,16,27.06.2024,M Vymazalová
+1,389608,16.9256951,49.1941282,Czechia_nvd,Czech Republic,16,04.07.2024,V Sobotka
+1,389107,17.3192606,48.8584212,Czechia_nvd,Czech Republic,16,08.05.2025,Z Preislerová
+1,388503,14.783557,49.1931051,Czechia_nvd,Czech Republic,25,22.05.2024,W Friederike
+1,388308,17.3730565,48.820394,Czechia_nvd,Czech Republic,10,04.06.2025,Z Preislerová
+1,388285,17.3744138,48.83253,Czechia_nvd,Czech Republic,16,04.06.2025,Z Preislerová
+1,388284,17.37937,48.834995,Czechia_nvd,Czech Republic,16,04.06.2025,Z Preislerová
+1,388039,17.3671368,48.842928,Czechia_nvd,Czech Republic,10,04.06.2025,Z Preislerová
+1,385845,13.9969297,48.865515,Czechia_nvd,Czech Republic,20,19.06.2024,W Friederike
+1,385844,13.9711419,48.86399,Czechia_nvd,Czech Republic,15,19.06.2024,W Friederike
+1,381148,15.7315511,49.1950563,Czechia_nvd,Czech Republic,16,06.06.2025,M Vymazalová
+1,379180,16.0644795,48.9533322,Czechia_nvd,Czech Republic,25,31.07.2024,V Sobotka
+1,379168,16.056145,48.9402904,Czechia_nvd,Czech Republic,25,21.06.2024,J Pleyer
+1,378765,16.641936,48.857879,Czechia_nvd,Czech Republic,10,05.07.2024,D Borovyk
+1,378741,16.630144,48.789282,Czechia_nvd,Czech Republic,20,16.05.2024,D Borovyk
+1,378722,16.64347222,48.94208333,Czechia_nvd,Czech Republic,32,20.05.2024,Z Preislerová
+1,378628,16.6458867,48.8058739,Czechia_nvd,Czech Republic,25,25.06.2024,M Vymazalová
+1,378528,16.7466866,48.7758223,Czechia_nvd,Czech Republic,25,23.05.2025,M Vymazalová
+1,378439,16.686724,48.801494,Czechia_nvd,Czech Republic,25,24.06.2024,D Borovyk
+1,378420,16.793521,48.8365449,Czechia_nvd,Czech Republic,25,15.05.2024,V Kalusová
+1,378412,16.7931932,48.8161647,Czechia_nvd,Czech Republic,25,14.05.2024,V Kalusová
+1,378400,16.628418,48.827728,Czechia_nvd,Czech Republic,25,23.06.2024,D Borovyk
+1,378354,16.556279,48.846579,Czechia_nvd,Czech Republic,25,16.05.2024,D Borovyk
+1,378345,16.63575,48.85889,Czechia_nvd,Czech Republic,25,17.05.2024,D Borovyk
+1,378328,16.563402,48.836635,Czechia_nvd,Czech Republic,15,16.05.2024,D Borovyk
+1,378131,16.692515,48.763405,Czechia_nvd,Czech Republic,25,24.05.2024,D Borovyk
+1,378088,16.655541,48.871895,Czechia_nvd,Czech Republic,12.5,23.07.2024,D Borovyk
+1,377262,14.1672854,49.1595043,Czechia_nvd,Czech Republic,16,13.07.2025,M Marek
+1,375559,16.9397971,48.9645239,Czechia_nvd,Czech Republic,4,23.05.2025,M Vymazalová
+1,375358,16.9653364,48.7056254,Czechia_nvd,Czech Republic,25,02.06.2025,M Vymazalová
+1,374639,16.9292076,48.6530354,Czechia_nvd,Czech Republic,25,02.06.2025,M Vymazalová
+1,374438,16.9591221,48.6332523,Czechia_nvd,Czech Republic,25,02.06.2025,M Vymazalová
+1,373472,15.5915492,49.1819203,Czechia_nvd,Czech Republic,15,24.07.2024,M Vymazalová
+1,373467,15.52867,49.1517264,Czechia_nvd,Czech Republic,10,24.07.2024,M Vymazalová
+1,373451,15.6411672,49.16944,Czechia_nvd,Czech Republic,15,24.07.2024,M Vymazalová
+1,373427,15.6084203,49.1932422,Czechia_nvd,Czech Republic,10,24.07.2024,M Vymazalová
+1,373418,15.5786311,49.1522325,Czechia_nvd,Czech Republic,10,24.07.2024,M Vymazalová
+1,371794,15.364425,49.18839,Czechia_nvd,Czech Republic,20,03.06.2025,P Keil
+1,371007,14.7055103,49.4019523,Czechia_nvd,Czech Republic,1,20.05.2024,W Friederike
+1,370911,16.531889,48.8224876,Czechia_nvd,Czech Republic,4,04.07.2025,Z Preislerová
+1,368460,17.1513385,48.8588868,Czechia_nvd,Czech Republic,9,20.05.2024,V Kalusová
+1,368248,16.653906,48.868057,Czechia_nvd,Czech Republic,25,21.05.2024,D Borovyk
+1,368181,15.12779056,49.11729,Czechia_nvd,Czech Republic,100,24.05.2025,M Marek
+1,368179,15.1407583,49.136487700000004,Czechia_nvd,Czech Republic,30,23.05.2024,W Friederike
+1,368148,15.124775,49.11733,Czechia_nvd,Czech Republic,100,04.06.2025,P Keil
+1,367375,14.2803141,49.0917725,Czechia_nvd,Czech Republic,10,13.07.2025,M Marek
+1,364578,14.7267526,49.0458855,Czechia_nvd,Czech Republic,16,23.07.2024,M Marek
+1,364143,16.18902778,49.10727778,Czechia_nvd,Czech Republic,16,11.06.2024,Z Preislerová
+1,364117,16.18107,49.10829,Czechia_nvd,Czech Republic,25,12.05.2025,M Vymazalová
+1,364111,16.17522,49.10877,Czechia_nvd,Czech Republic,25,13.05.2025,M Vymazalová
+1,364109,16.18924,49.1062,Czechia_nvd,Czech Republic,25,14.05.2025,M Vymazalová
+1,364099,16.17621,49.10873,Czechia_nvd,Czech Republic,25,13.05.2025,M Vymazalová
+1,364095,16.18946,49.10619,Czechia_nvd,Czech Republic,25,14.05.2025,M Vymazalová
+1,364092,16.18991,49.10699,Czechia_nvd,Czech Republic,25,14.05.2025,M Vymazalová
+1,364090,16.18261,49.10794,Czechia_nvd,Czech Republic,25,12.05.2025,M Vymazalová
+1,363070,16.8244002,48.7909375,Czechia_nvd,Czech Republic,25,25.06.2024,V Kalusová
+1,361887,14.35231,49.0775,Czechia_nvd,Czech Republic,16,23.07.2025,E Jagošová
+1,360200,16.640156,48.841701,Czechia_nvd,Czech Republic,9,20.06.2024,D Borovyk
+1,360192,16.63425,48.839989,Czechia_nvd,Czech Republic,2,20.06.2024,D Borovyk
+1,360172,16.640875,48.845697,Czechia_nvd,Czech Republic,4,20.06.2024,D Borovyk
+1,358624,16.55236,49.233306,Czechia_nvd,Czech Republic,35,06.05.2024,V Kalusová
+1,358440,16.755403,49.1919857,Czechia_nvd,Czech Republic,10,08.07.2024,V Sobotka
+1,358075,14.262545,49.12921583,Czechia_nvd,Czech Republic,25,22.05.2025,M Marek
+1,356080,14.35121056,49.07241167,Czechia_nvd,Czech Republic,20,23.05.2025,M Marek
+1,354846,13.514731,49.14203,Czechia_nvd,Czech Republic,100,29.07.2024,D Borovyk
+1,354825,15.552343,49.340078,Czechia_nvd,Czech Republic,25,23.05.2025,P Keil
+1,354053,17.01941667,49.12841667,Czechia_nvd,Czech Republic,10,14.06.2024,Z Preislerová
+1,353903,16.6759,49.19024,Czechia_nvd,Czech Republic,16,03.05.2024,workshop_team
+1,350883,14.3249582,48.8881452,Czechia_nvd,Czech Republic,2,24.06.2024,W Friederike
+1,350006,16.6774257,49.2173353,Czechia_nvd,Czech Republic,36,10.05.2024,V Kalusová
+1,349993,16.7142383,49.2268433,Czechia_nvd,Czech Republic,25,05.08.2024,V Sobotka
+1,349955,16.6743,49.22036,Czechia_nvd,Czech Republic,8,03.05.2024,workshop_team
+1,345500,13.508845,49.050832,Czechia_nvd,Czech Republic,8,09.07.2024,D Borovyk
+1,344254,15.56309,49.346174,Czechia_nvd,Czech Republic,6,23.05.2025,P Keil
+1,342300,15.8002364,49.2093425,Czechia_nvd,Czech Republic,16,24.07.2024,M Vymazalová
+1,342290,16.0527967,49.2342203,Czechia_nvd,Czech Republic,10,23.07.2024,M Vymazalová
+1,342028,16.645874,48.862741,Czechia_nvd,Czech Republic,100,24.06.2024,D Borovyk
+1,342025,16.656195,48.872105,Czechia_nvd,Czech Republic,100,13.07.2024,D Borovyk
+1,342013,16.650921,48.86688,Czechia_nvd,Czech Republic,10,21.05.2024,D Borovyk
+1,341632,16.7092683,48.959916,Czechia_nvd,Czech Republic,16,20.05.2025,V Kalusová
+1,341629,16.7514622,48.906839,Czechia_nvd,Czech Republic,16,20.05.2025,M Vymazalová
+1,341618,16.6811898,48.9819604,Czechia_nvd,Czech Republic,4,23.05.2025,M Vymazalová
+1,338397,14.78784139,48.94014389,Czechia_nvd,Czech Republic,3,24.05.2025,M Marek
+1,338394,14.63884667,49.04510361,Czechia_nvd,Czech Republic,30,23.05.2025,M Marek
+1,338386,14.33588306,49.08371194,Czechia_nvd,Czech Republic,25,23.05.2025,M Marek
+1,338368,14.64449,49.10339,Czechia_nvd,Czech Republic,20,24.05.2025,E Jagošová
+1,338363,14.35601,49.05629,Czechia_nvd,Czech Republic,25,23.05.2025,E Jagošová
+1,338342,14.2600846,49.0439677,Czechia_nvd,Czech Republic,25,20.06.2024,W Friederike
+1,338332,14.33281,49.07117,Czechia_nvd,Czech Republic,25,23.05.2025,E Jagošová
+1,338329,14.38892,49.00891,Czechia_nvd,Czech Republic,25,23.05.2025,E Jagošová
+1,338321,14.44046,49.01615,Czechia_nvd,Czech Republic,25,24.05.2025,E Jagošová
+1,338320,14.44297,49.01492,Czechia_nvd,Czech Republic,25,24.05.2025,E Jagošová
+1,338309,14.86399,48.9537,Czechia_nvd,Czech Republic,25,31.05.2024,P Keil
+1,338305,14.86335333,48.97817389,Czechia_nvd,Czech Republic,3,24.05.2025,M Marek
+1,338287,14.7062378,49.1785507,Czechia_nvd,Czech Republic,25,22.05.2024,W Friederike
+1,338247,14.86364,48.96365,Czechia_nvd,Czech Republic,16,30.05.2024,P Keil
+1,338244,14.78495,48.99561,Czechia_nvd,Czech Republic,25,15.05.2024,P Keil
+1,338232,14.4192,49.06338,Czechia_nvd,Czech Republic,25,23.05.2025,E Jagošová
+1,338222,14.49258,49.00988,Czechia_nvd,Czech Republic,20,15.05.2024,P Keil
+1,338218,14.297235,49.09187667,Czechia_nvd,Czech Republic,25,22.05.2025,M Marek
+1,338202,14.11514,49.13699,Czechia_nvd,Czech Republic,20,22.05.2025,E Jagošová
+1,338169,14.2990767,49.0238979,Czechia_nvd,Czech Republic,25,20.06.2024,W Friederike
+1,338161,14.31441,49.08389,Czechia_nvd,Czech Republic,25,22.05.2025,E Jagošová
+1,335866,14.67521,48.75046,Czechia_nvd,Czech Republic,16,24.07.2025,E Jagošová
+1,335858,14.63713,48.71727,Czechia_nvd,Czech Republic,12,23.07.2025,E Jagošová
+1,335841,14.48562,48.65611,Czechia_nvd,Czech Republic,16,23.07.2025,E Jagošová
+1,335817,14.642150000000001,48.65547,Czechia_nvd,Czech Republic,6,23.07.2025,E Jagošová
+1,335816,14.74213,48.77294,Czechia_nvd,Czech Republic,18,24.07.2025,E Jagošová
+1,335584,14.102011,48.6403378,Czechia_nvd,Czech Republic,14,13.07.2025,M Marek
+1,335577,13.954029,48.8326431,Czechia_nvd,Czech Republic,16,18.06.2024,W Friederike
+1,335573,13.571636,49.031986,Czechia_nvd,Czech Republic,16,29.07.2024,D Borovyk
+1,335484,15.1327157,49.0070682,Czechia_nvd,Czech Republic,25,24.07.2024,M Marek
+1,335082,16.92222222,48.99344444,Czechia_nvd,Czech Republic,25,14.06.2024,Z Preislerová
+1,334973,13.8087731,49.0541825,Czechia_nvd,Czech Republic,25,29.05.2024,M Marek
+1,334964,13.69871,49.06679,Czechia_nvd,Czech Republic,25,28.05.2024,M Marek
+1,334954,13.8776223,49.061603,Czechia_nvd,Czech Republic,25,01.06.2024,M Marek
+1,334953,13.7655602,49.0609612,Czechia_nvd,Czech Republic,25,28.05.2024,M Marek
+1,334952,13.8233859,49.0268592,Czechia_nvd,Czech Republic,25,30.05.2024,M Marek
+1,334948,13.9095812,49.0050084,Czechia_nvd,Czech Republic,16,31.05.2024,M Marek
+1,334934,13.877945,49.0488559,Czechia_nvd,Czech Republic,12,30.05.2024,M Marek
+1,334922,13.8658201,49.0210616,Czechia_nvd,Czech Republic,25,31.05.2024,M Marek
+1,334920,13.800674,48.9440281,Czechia_nvd,Czech Republic,25,30.05.2024,M Marek
+1,334919,13.75694,49.0659,Czechia_nvd,Czech Republic,25,28.05.2024,M Marek
+1,334910,13.79574,49.08977,Czechia_nvd,Czech Republic,25,27.05.2024,M Marek
+1,334903,13.556453,49.059511,Czechia_nvd,Czech Republic,25,09.07.2024,D Borovyk
+1,334898,13.764066,49.001072,Czechia_nvd,Czech Republic,25,10.07.2024,D Borovyk
+1,334886,13.8099179,49.0835481,Czechia_nvd,Czech Republic,25,29.05.2024,M Marek
+1,334885,13.9114333,49.0161224,Czechia_nvd,Czech Republic,25,01.06.2024,M Marek
+1,334604,15.7825558,48.9699939,Czechia_nvd,Czech Republic,16,22.07.2024,M Vymazalová
+1,334586,15.8828273,48.8868553,Czechia_nvd,Czech Republic,25,21.06.2024,J Pleyer
+1,334239,17.432825,48.8261017,Czechia_nvd,Slovak Republic,16,06.08.2024,V Sobotka
+1,334234,17.4156917,48.8581817,Czechia_nvd,Czech Republic,16,06.08.2024,V Sobotka
+1,334171,17.3356368,48.8419792,Czechia_nvd,Czech Republic,16,14.05.2025,Z Preislerová
+1,333617,17.1419051,48.8876176,Czechia_nvd,Czech Republic,16,20.05.2024,V Kalusová
+1,333591,14.09316,48.94933,Czechia_nvd,Czech Republic,16,15.05.2024,P Keil
+1,333448,16.6590758,48.811848,Czechia_nvd,Czech Republic,20,25.06.2024,V Kalusová
+1,333432,16.518687,48.798308,Czechia_nvd,Czech Republic,25,21.06.2024,D Borovyk
+1,333382,16.1723611,49.09725,Czechia_nvd,Czech Republic,25,08.05.2025,Z Preislerová
+1,332984,17.1419759,48.8917078,Czechia_nvd,Czech Republic,16,20.05.2024,V Kalusová
+1,332983,17.2219489,48.9037903,Czechia_nvd,Czech Republic,16,20.05.2024,M Vymazalová
+1,332860,15.942016,48.753669,Czechia_nvd,Austria,20,22.06.2024,D Borovyk
+1,332854,15.970222,48.791694,Czechia_nvd,Austria,25,26.05.2024,J Pleyer
+1,332848,15.9828393,48.8227441,Czechia_nvd,Czech Republic,36,21.06.2024,J Pleyer
+1,332725,16.0982733,48.9380773,Czechia_nvd,Czech Republic,36,21.05.2025,V Kalusová
+1,332705,16.5202227,49.2331646,Czechia_nvd,Czech Republic,16,06.06.2024,V Kalusová
+1,332672,16.3593399,48.9837182,Czechia_nvd,Czech Republic,9,15.06.2025,V Kalusová
+1,332652,15.940522,48.761603,Czechia_nvd,Austria,25,22.06.2024,D Borovyk
+1,332631,16.3240637,49.1215708,Czechia_nvd,Czech Republic,49,15.06.2025,V Kalusová
+1,332627,15.850454,48.8416186,Czechia_nvd,Austria,6,16.07.2024,V Sobotka
+1,332585,15.631071,48.874004,Czechia_nvd,Austria,16,22.06.2024,D Borovyk
+1,332584,15.581607,48.8464019,Czechia_nvd,Austria,16,19.07.2024,V Sobotka
+1,332569,15.630906,48.873995,Czechia_nvd,Austria,20,22.06.2024,D Borovyk
+1,332558,15.7692072,48.9374547,Czechia_nvd,Czech Republic,8,22.07.2024,M Vymazalová
+1,332533,15.8225967,48.8232467,Czechia_nvd,Austria,25,18.07.2024,V Sobotka
+1,332507,15.8138283,48.8146164,Czechia_nvd,Austria,25,18.07.2024,V Sobotka
+1,332499,15.892111,48.843611,Czechia_nvd,Austria,20,14.05.2025,N Türk
+1,332492,15.848833,48.8364833,Czechia_nvd,Austria,25,17.07.2024,V Sobotka
+1,332489,15.8442977,48.841622,Czechia_nvd,Austria,25,17.07.2024,V Sobotka
+1,332488,15.8488304,48.8431659,Czechia_nvd,Austria,25,16.07.2024,V Sobotka
+1,332468,15.8025691,48.8249768,Czechia_nvd,Austria,25,25.05.2024,J Pleyer
+1,332455,15.9090339,48.7942552,Czechia_nvd,Austria,25,26.05.2024,J Pleyer
+1,332439,15.8855,48.826778,Czechia_nvd,Austria,25,13.05.2025,N Türk
+1,332431,15.8749501,48.8597112,Czechia_nvd,Austria,25,20.06.2024,J Pleyer
+1,332249,16.84975,48.95527778,Czechia_nvd,Czech Republic,25,14.06.2024,Z Preislerová
+1,331891,16.32619444,49.06327778,Czechia_nvd,Czech Republic,16,20.05.2024,Z Preislerová
+1,331882,16.31972222,49.04763889,Czechia_nvd,Czech Republic,16,20.05.2024,Z Preislerová
+1,331862,16.18913,49.10749,Czechia_nvd,Czech Republic,25,14.05.2025,M Vymazalová
+1,331860,16.19155556,49.10522222,Czechia_nvd,Czech Republic,16,11.06.2024,Z Preislerová
+1,331815,16.19683333,49.09641667,Czechia_nvd,Czech Republic,9,11.06.2024,Z Preislerová
+1,331811,16.24147,49.10247,Czechia_nvd,Czech Republic,12,08.05.2025,Z Preislerová
+1,331797,16.2746553,49.0969589,Czechia_nvd,Czech Republic,16,27.06.2024,M Vymazalová
+1,331769,16.31897222,49.05197222,Czechia_nvd,Czech Republic,2,20.05.2024,Z Preislerová
+1,331744,16.2018264,49.1017153,Czechia_nvd,Czech Republic,25,05.06.2025,V Kalusová
+1,330936,15.0538315,49.1973206,Czechia_nvd,Czech Republic,25,23.05.2024,W Friederike
+1,330761,13.8703191,49.1398676,Czechia_nvd,Czech Republic,25,27.05.2024,M Marek
+1,330610,14.45187,49.07471,Czechia_nvd,Czech Republic,25,23.05.2025,E Jagošová
+1,330591,15.05415,49.15553,Czechia_nvd,Czech Republic,25,23.05.2024,W Friederike
+1,330197,14.89726,48.89869,Czechia_nvd,Czech Republic,6,21.05.2025,P Keil
+1,330181,14.95100806,48.82159389,Czechia_nvd,Czech Republic,3,24.05.2025,M Marek
+1,330150,14.76259,49.07058417,Czechia_nvd,Czech Republic,15,23.05.2025,M Marek
+1,329986,14.23752,48.76389,Czechia_nvd,Czech Republic,40,20.05.2025,P Keil
+1,329890,14.84361,48.74484,Czechia_nvd,Austria,6,10.08.2024,H Schwaiger
+1,329790,16.2471642,49.0973039,Czechia_nvd,Czech Republic,18,27.06.2024,M Vymazalová
+1,329581,15.13811083,49.11447278,Czechia_nvd,Czech Republic,16,24.05.2025,M Marek
+1,329567,15.434602,49.062561,Czechia_nvd,Czech Republic,20,28.08.2025,P Keil
+1,325294,16.9607798,49.1518723,Czechia_nvd,Czech Republic,16,12.06.2025,V Kalusová
+1,325179,16.25922222,49.10475,Czechia_nvd,Czech Republic,16,20.05.2024,Z Preislerová
+1,324682,16.8081471,48.8534749,Czechia_nvd,Czech Republic,16,20.05.2025,V Kalusová
+1,323526,15.9656136,48.8831526,Czechia_nvd,Czech Republic,1,21.05.2025,M Vymazalová
+1,323366,17.437576,48.8730783,Czechia_nvd,Czech Republic,25,14.05.2025,Z Preislerová
+1,323281,17.32777778,48.86291667,Czechia_nvd,Czech Republic,25,20.05.2024,Z Preislerová
+1,322934,16.5304646,48.8229311,Czechia_nvd,Czech Republic,16,04.07.2025,Z Preislerová
+1,322225,16.0529108,48.9947832,Czechia_nvd,Czech Republic,4,21.05.2025,M Vymazalová
+1,322194,16.0956272,48.78238,Czechia_nvd,Czech Republic,4,21.05.2025,M Vymazalová
+1,321924,17.345277,48.980147,Czechia_nvd,Czech Republic,16,05.06.2025,Z Preislerová
+1,321521,14.4410955,49.1888037,Czechia_nvd,Czech Republic,25,21.05.2024,W Friederike
+1,321145,14.74159917,49.05947972,Czechia_nvd,Czech Republic,16,23.05.2025,M Marek
+1,320587,15.5011177,49.185963,Czechia_nvd,Czech Republic,16,06.06.2025,M Vymazalová
+1,320535,15.294883,49.251087,Czechia_nvd,Czech Republic,16,03.06.2025,P Keil
+1,319103,14.438611,49.273056,Czechia_nvd,Czech Republic,15,20.05.2024,W Friederike
+1,318862,14.5153,49.31401,Czechia_nvd,Czech Republic,20,19.05.2025,P Keil
+1,318485,14.5856687,49.3366325,Czechia_nvd,Czech Republic,25,20.05.2024,W Friederike
+1,317677,14.0901515,49.1252396,Czechia_nvd,Czech Republic,25,24.07.2024,M Marek
+1,317356,14.17731,49.10641,Czechia_nvd,Czech Republic,50,22.05.2025,E Jagošová
+1,317351,14.18212,49.12500083,Czechia_nvd,Czech Republic,20,22.05.2025,M Marek
+1,316882,14.2528573,48.9308266,Czechia_nvd,Czech Republic,16,24.06.2024,W Friederike
+1,316787,16.1017189,49.2807792,Czechia_nvd,Czech Republic,16,23.07.2024,M Vymazalová
+1,315127,14.0058265,48.7165187,Czechia_nvd,Czech Republic,16,13.07.2025,M Marek
+1,313667,16.635564,48.865587,Czechia_nvd,Czech Republic,1,21.05.2024,D Borovyk
+1,312545,15.307819,49.222342,Czechia_nvd,Czech Republic,20,24.05.2025,P Keil
+1,312239,16.9399853,48.9644455,Czechia_nvd,Czech Republic,16,23.05.2025,M Vymazalová
+1,312023,13.66412,49.04846,Czechia_nvd,Czech Republic,15,28.05.2024,P Keil
+1,312015,13.81507,49.08162,Czechia_nvd,Czech Republic,25,29.05.2024,P Keil
+1,312014,13.7798374,49.0667919,Czechia_nvd,Czech Republic,25,29.05.2024,M Marek
+1,312012,13.8805216,48.9856841,Czechia_nvd,Czech Republic,9,31.05.2024,M Marek
+1,312010,13.7763287,48.9987193,Czechia_nvd,Czech Republic,25,30.05.2024,M Marek
+1,308116,14.7138429,49.2106005,Czechia_nvd,Czech Republic,9,22.05.2024,W Friederike
+1,307862,13.562314,49.056957,Czechia_nvd,Czech Republic,16,09.07.2024,D Borovyk
+1,307856,13.523574,49.031599,Czechia_nvd,Czech Republic,16,09.07.2024,D Borovyk
+1,302790,15.15312278,49.12088278,Czechia_nvd,Czech Republic,4,24.05.2025,M Marek
+1,302788,15.1564686,49.1225222,Czechia_nvd,Czech Republic,4,17.06.2024,W Friederike
+1,301838,13.6597442,49.189934,Czechia_nvd,Czech Republic,30,02.06.2024,M Marek
+1,300940,16.96865,48.97104,Czechia_nvd,Czech Republic,16,09.07.2024,V Sobotka
+1,300064,16.6808917,48.9821113,Czechia_nvd,Czech Republic,4,23.05.2025,M Vymazalová
+1,300055,16.7015741,48.9655486,Czechia_nvd,Czech Republic,16,02.06.2025,M Vymazalová
+1,300028,16.8222681,48.8657508,Czechia_nvd,Czech Republic,16,20.05.2025,V Kalusová
+1,300024,16.8255548,48.8622562,Czechia_nvd,Czech Republic,16,22.05.2025,V Kalusová
+1,300023,16.8199445,48.8690586,Czechia_nvd,Czech Republic,16,20.05.2025,V Kalusová
+1,300009,16.9349432,48.9730437,Czechia_nvd,Czech Republic,16,23.05.2025,M Vymazalová
+1,297052,16.0375323,48.8123443,Czechia_nvd,Czech Republic,20,20.06.2024,J Pleyer
+1,296925,16.6639211,49.2255858,Czechia_nvd,Czech Republic,25,10.05.2024,V Kalusová
+1,296895,16.99916667,49.00675,Czechia_nvd,Czech Republic,50,20.05.2024,Z Preislerová
+1,296832,16.95977356,49.1529482,Czechia_nvd,Czech Republic,20,19.05.2025,V Kalusová
+1,296830,16.9594974,49.1527168,Czechia_nvd,Czech Republic,20,19.05.2025,V Kalusová
+1,296805,16.94799012,49.1456919,Czechia_nvd,Czech Republic,25,19.05.2025,V Kalusová
+1,296802,16.9481811,49.1461584,Czechia_nvd,Czech Republic,20,19.05.2025,V Kalusová
+1,296353,14.69666,48.6003,Czechia_nvd,Czech Republic,25,23.07.2025,E Jagošová
+1,295955,16.9252707,49.1967763,Czechia_nvd,Czech Republic,16,04.07.2024,V Sobotka
+1,294070,16.5585458,49.05644,Czechia_nvd,Czech Republic,4,31.05.2025,Z Preislerová
+1,293796,13.4831475,49.0903028,Czechia_nvd,Czech Republic,25,02.06.2024,M Marek
+1,287659,14.4750782,49.2935639,Czechia_nvd,Czech Republic,6,21.05.2024,W Friederike
+1,92525,14.085685,48.170722,Austria_VINCA,Austria,25,02.06.2025,J Pleyer
+1,92346,14.3561623,48.4221983,Austria_VINCA,Austria,25,02.06.2025,J Pleyer
+1,92341,14.1057483,48.4611376,Austria_VINCA,Austria,25,02.06.2025,J Pleyer
+1,88976,13.53752,48.4812,Austria_VINCA,Austria,100,06.08.2024,H Schwaiger
+1,86684,14.9299,48.46799,Austria_VINCA,Austria,25,27.05.2024,H Schwaiger
+1,86683,14.94625,48.46249,Austria_VINCA,Austria,25,10.08.2024,H Schwaiger
+1,86677,14.84981,48.54026,Austria_VINCA,Austria,25,27.05.2024,H Schwaiger
+1,84475,14.61775,48.485389,Austria_VINCA,Austria,16,20.05.2025,N Türk
+1,84423,15.19682,48.32046,Austria_VINCA,Austria,12,27.05.2024,H Schwaiger
+1,84371,14.34307,48.16051,Austria_VINCA,Austria,16,20.05.2024,H Schwaiger
+1,84353,14.52891,48.35619,Austria_VINCA,Austria,16,09.05.2024,H Schwaiger
+1,83907,14.61752,48.59124,Austria_VINCA,Austria,20,23.05.2024,H Schwaiger
+1,83905,14.63017,48.56592,Austria_VINCA,Austria,20,23.05.2024,H Schwaiger
+1,83891,14.74735,48.34679,Austria_VINCA,Austria,100,09.05.2024,H Schwaiger
+1,83890,14.944139,48.32725,Austria_VINCA,Austria,30,21.05.2025,N Türk
+1,83881,14.61475,48.469278,Austria_VINCA,Austria,25,20.05.2025,N Türk
+1,83805,14.39903,48.12354,Austria_VINCA,Austria,50,20.05.2024,H Schwaiger
+1,83799,14.40417,48.14814,Austria_VINCA,Austria,10,20.05.2024,H Schwaiger
+1,83798,14.39936,48.13279,Austria_VINCA,Austria,60,20.05.2024,H Schwaiger
+1,83796,14.44017,48.17603,Austria_VINCA,Austria,40,20.05.2024,H Schwaiger
+1,83791,14.41553,48.19673,Austria_VINCA,Austria,46,20.05.2024,H Schwaiger
+1,83788,14.40364,48.13026,Austria_VINCA,Austria,40,20.05.2024,H Schwaiger
+1,83752,15.16853,48.32492,Austria_VINCA,Austria,10,27.05.2024,H Schwaiger
+1,83747,14.69771,48.45356,Austria_VINCA,Austria,10,23.05.2024,H Schwaiger
+1,83746,14.74604,48.5366,Austria_VINCA,Austria,10,23.05.2024,H Schwaiger
+1,83745,15.164044,48.573028,Austria_VINCA,Austria,10,16.05.2025,N Türk
+1,83736,15.09032,48.72792,Austria_VINCA,Austria,14,11.08.2024,H Schwaiger
+1,83730,16.431072,48.530208,Austria_VINCA,Austria,16,08.05.2025,N Türk
+1,83721,14.80396,48.57953,Austria_VINCA,Austria,16,10.08.2024,H Schwaiger
+1,83720,14.68199,48.55893,Austria_VINCA,Austria,16,23.05.2024,H Schwaiger
+1,83718,14.70035,48.51297,Austria_VINCA,Austria,16,23.05.2024,H Schwaiger
+1,83716,14.96363,48.79345,Austria_VINCA,Austria,16,11.08.2024,H Schwaiger
+1,83715,13.988889,48.52175,Austria_VINCA,Austria,16,20.05.2025,N Türk
+1,83710,14.63513,48.53185,Austria_VINCA,Austria,16,23.05.2024,H Schwaiger
+1,83708,14.67651,48.52332,Austria_VINCA,Austria,20,23.05.2024,H Schwaiger
+1,83707,15.01142,48.39062,Austria_VINCA,Austria,20,27.05.2024,H Schwaiger
+1,83706,15.15512,48.37328,Austria_VINCA,Austria,20,27.05.2024,H Schwaiger
+1,83704,14.84211,48.65826,Austria_VINCA,Austria,16,10.08.2024,H Schwaiger
+1,83703,14.58182,48.58085,Austria_VINCA,Austria,16,23.05.2024,H Schwaiger
+1,83702,14.99819,48.76712,Austria_VINCA,Austria,10,11.08.2024,H Schwaiger
+1,83701,14.840683,48.720944,Austria_VINCA,Austria,16,19.05.2025,N Türk
+1,83700,15.19481,48.3133,Austria_VINCA,Austria,20,27.05.2024,H Schwaiger
+1,83698,14.79512,48.69955,Austria_VINCA,Austria,16,10.08.2024,H Schwaiger
+1,83696,15.407111,48.886583,Austria_VINCA,Austria,16,14.05.2025,N Türk
+1,83693,15.096917,48.872569,Austria_VINCA,Austria,20,15.05.2025,N Türk
+1,83692,15.166167,48.565556,Austria_VINCA,Austria,16,15.05.2025,N Türk
+1,83691,14.79119,48.7076,Austria_VINCA,Austria,16,10.08.2024,H Schwaiger
+1,83690,15.0889086,48.9904961,Austria_VINCA,Austria,16,24.07.2024,M Marek
+1,83688,15.143204,48.9481892,Austria_VINCA,Austria,16,23.07.2024,M Marek
+1,83687,15.03559,48.77582,Austria_VINCA,Austria,16,11.08.2024,H Schwaiger
+1,83681,14.89618,48.71121,Austria_VINCA,Austria,16,10.08.2024,H Schwaiger
+1,83476,14.66471,48.24491,Austria_VINCA,Austria,40,09.05.2024,H Schwaiger
+1,83473,14.43622,48.26837,Austria_VINCA,Austria,50,09.05.2024,H Schwaiger
+1,83469,14.41462,48.26213,Austria_VINCA,Austria,25,14.05.2024,H Schwaiger
+1,83467,14.53446,48.25683,Austria_VINCA,Austria,40,09.05.2024,H Schwaiger
+1,83466,14.74449,48.21148,Austria_VINCA,Austria,50,09.05.2024,H Schwaiger
+1,83461,14.4097,48.26246,Austria_VINCA,Austria,25,14.05.2024,H Schwaiger
+1,83459,14.69438,48.23198,Austria_VINCA,Austria,10,09.05.2024,H Schwaiger
+1,83453,14.18668,48.30906,Austria_VINCA,Austria,50,07.05.2024,H Schwaiger
+1,83450,14.18552,48.3107,Austria_VINCA,Austria,40,07.05.2024,H Schwaiger
+1,83449,14.18275,48.31172,Austria_VINCA,Austria,40,07.05.2024,H Schwaiger
+1,83443,14.18598,48.30739,Austria_VINCA,Austria,50,07.05.2024,H Schwaiger
+1,83442,14.204,48.29288,Austria_VINCA,Austria,40,07.05.2024,H Schwaiger
+1,83441,14.20281,48.28648,Austria_VINCA,Austria,25,07.05.2024,H Schwaiger
+1,83439,14.16524,48.27732,Austria_VINCA,Austria,50,07.05.2024,H Schwaiger
+1,83433,14.50634,48.214,Austria_VINCA,Austria,16,20.05.2024,H Schwaiger
+1,61745,15.93652,48.42179,Austria_VINCA,Austria,20,18.05.2024,A Clark
+1,61721,16.624559,48.428811,Austria_VINCA,Austria,20,23.06.2024,D Borovyk
+1,61716,16.6646947,48.7593115,Austria_VINCA,Austria,20,25.06.2024,V Kalusová
+1,61711,16.331472,48.6495,Austria_VINCA,Austria,20,09.05.2025,N Türk
+1,61677,15.56276,48.42412,Austria_VINCA,Austria,20,06.06.2025,G Hörmann
+1,61664,16.396113,48.574697,Austria_VINCA,Austria,20,24.05.2024,D Borovyk
+1,61617,15.970167,48.349194,Austria_VINCA,Austria,20,27.05.2025,N Türk
+1,61615,15.942944,48.362833,Austria_VINCA,Austria,20,26.05.2025,N Türk
+1,61609,15.68018,48.5462,Austria_VINCA,Austria,20,18.05.2024,A Clark
+1,61597,15.9342576,48.760454,Austria_VINCA,Austria,20,25.05.2024,J Pleyer
+1,61503,16.8755162,48.2900029,Austria_VINCA,Austria,25,28.05.2025,J Pleyer
+1,60302,16.167972,48.649139,Austria_VINCA,Austria,25,13.05.2025,N Türk
+1,60186,15.01806,48.54187,Austria_VINCA,Austria,25,28.05.2024,H Schwaiger
+1,60183,15.07108,48.5395,Austria_VINCA,Austria,25,28.05.2024,H Schwaiger
+1,60181,15.11077,48.53616,Austria_VINCA,Austria,25,11.08.2024,H Schwaiger
+1,60176,15.2215,48.5297,Austria_VINCA,Austria,25,11.08.2024,H Schwaiger
+1,60175,15.23578,48.52879,Austria_VINCA,Austria,25,28.05.2024,H Schwaiger
+1,60174,15.14271,48.5283,Austria_VINCA,Austria,49,28.05.2024,H Schwaiger
+1,60163,15.24221,48.52952,Austria_VINCA,Austria,25,28.05.2024,H Schwaiger
+1,60160,15.25124,48.52789,Austria_VINCA,Austria,25,28.05.2024,H Schwaiger
+1,60158,15.27501,48.52709,Austria_VINCA,Austria,25,28.05.2024,H Schwaiger
+1,60154,15.34053,48.52457,Austria_VINCA,Austria,25,11.08.2024,H Schwaiger
+1,58890,16.212226,48.3706747,Austria_VINCA,Austria,10,26.05.2024,J Pleyer
+1,58888,16.2282252,48.3730468,Austria_VINCA,Austria,10,27.05.2024,J Pleyer
+1,58887,16.2124451,48.3689829,Austria_VINCA,Austria,6,26.05.2024,J Pleyer
+1,58875,16.2247423,48.3724042,Austria_VINCA,Austria,6,27.05.2024,J Pleyer
+1,58874,16.2337671,48.3757725,Austria_VINCA,Austria,6,27.05.2024,J Pleyer
+1,58867,16.2107699,48.3775351,Austria_VINCA,Austria,4,26.05.2024,J Pleyer
+1,58721,16.84985,48.39845,Austria_VINCA,Austria,25,11.06.2025,G Hörmann
+1,58718,16.847333,48.4096,Austria_VINCA,Austria,25,11.06.2025,G Hörmann
+1,58714,16.85444444,48.3986111,Austria_VINCA,Austria,25,04.06.2025,G Hörmann
+1,58381,16.0822333,48.44026,Austria_VINCA,Austria,25,25.07.2024,V Sobotka
+1,57653,16.891033,48.300833,Austria_VINCA,Austria,20,13.06.2025,G Hörmann
+1,57124,15.914333,48.369472,Austria_VINCA,Austria,10,26.05.2025,N Türk
+1,57123,15.963056,48.350528,Austria_VINCA,Austria,40,27.05.2025,N Türk
+1,56627,16.91706,48.27855,Austria_VINCA,Austria,100,02.06.2025,G Hörmann
+1,56626,16.91814,48.57061,Austria_VINCA,Austria,10,09.06.2025,G Hörmann
+1,56620,14.81399,48.55369,Austria_VINCA,Austria,16,27.05.2024,H Schwaiger
+1,56612,15.8776545,48.7116987,Austria_VINCA,Austria,18,24.05.2024,J Pleyer
+1,56610,15.7621775,48.8454579,Austria_VINCA,Austria,16,25.05.2024,J Pleyer
+1,56607,15.15261,48.37121,Austria_VINCA,Austria,20,27.05.2024,H Schwaiger
+1,56600,15.17125,48.32131,Austria_VINCA,Austria,10,27.05.2024,H Schwaiger
+1,56133,16.92249,48.53406,Austria_VINCA,Austria,6,09.06.2025,G Hörmann
+1,54454,16.2907093,48.2918294,Austria_VINCA,Austria,100,28.05.2024,J Pleyer
+1,54363,16.2878952,48.309449,Austria_VINCA,Austria,100,28.05.2024,J Pleyer
+1,54278,16.2570533,48.3378321,Austria_VINCA,Austria,100,28.05.2024,J Pleyer
+1,54206,16.1864089,48.3078052,Austria_VINCA,Austria,25,01.06.2024,J Pleyer
+1,54199,16.1702023,48.3033138,Austria_VINCA,Austria,25,02.06.2024,J Pleyer
+1,54189,16.1799271,48.3072074,Austria_VINCA,Austria,25,31.05.2024,J Pleyer
+1,54188,16.2152738,48.3222087,Austria_VINCA,Austria,25,01.06.2024,J Pleyer
+1,54170,16.179734,48.305342,Austria_VINCA,Austria,25,01.06.2024,J Pleyer
+1,54156,16.1721078,48.2995324,Austria_VINCA,Austria,25,29.05.2024,J Pleyer
+1,54154,16.1598493,48.2952554,Austria_VINCA,Austria,25,29.05.2024,J Pleyer
+1,54146,16.155812,48.2950154,Austria_VINCA,Austria,25,29.05.2024,J Pleyer
+1,54127,16.1956483,48.3171193,Austria_VINCA,Austria,25,01.06.2024,J Pleyer
+1,54005,16.1754457,48.3057378,Austria_VINCA,Austria,25,01.06.2024,J Pleyer
+1,53816,16.238194,48.709083,Austria_VINCA,Austria,10,10.05.2025,N Türk
+1,53815,16.236889,48.709583,Austria_VINCA,Austria,10,10.05.2025,N Türk
+1,53814,16.234333,48.708278,Austria_VINCA,Austria,10,10.05.2025,N Türk
+1,53701,16.57257,48.56031,Austria_VINCA,Austria,20,07.06.2025,G Hörmann
+1,53697,16.56995,48.55989,Austria_VINCA,Austria,20,07.06.2025,G Hörmann
+1,53621,16.1925459,48.3111751,Austria_VINCA,Austria,25,26.06.2024,V Kalusová
+1,53586,16.1617519,48.2975154,Austria_VINCA,Austria,20,29.05.2024,J Pleyer
+1,53553,16.1650023,48.300272,Austria_VINCA,Austria,20,29.05.2024,J Pleyer
+1,53063,16.9460194,48.1721299,Austria_VINCA,Austria,25,29.05.2025,J Pleyer
+1,53021,16.937167,48.1705,Austria_VINCA,Austria,25,23.05.2025,N Türk
+1,52969,16.985139,48.165056,Austria_VINCA,Austria,25,23.05.2025,N Türk
+1,52393,16.9317606,48.1717991,Austria_VINCA,Austria,15,29.05.2025,J Pleyer
+1,52392,16.9317584,48.1721704,Austria_VINCA,Austria,45,29.05.2025,J Pleyer
+1,52231,16.9261966,48.1692463,Austria_VINCA,Austria,100,29.05.2025,J Pleyer
+1,52225,16.9431377,48.17188,Austria_VINCA,Austria,40,29.05.2025,J Pleyer
+1,52217,16.9478622,48.1709264,Austria_VINCA,Austria,25,29.05.2025,J Pleyer
+1,51594,16.563937,48.764683,Austria_VINCA,Austria,100,21.06.2024,D Borovyk
+1,51590,16.345529,48.643042,Austria_VINCA,Austria,35,09.05.2025,N Türk
+1,51586,16.356288,48.558822,Austria_VINCA,Austria,8,23.05.2024,D Borovyk
+1,51580,16.582342,48.724556,Austria_VINCA,Austria,100,24.05.2024,D Borovyk
+1,51576,16.452939,48.580891,Austria_VINCA,Austria,10,23.05.2024,D Borovyk
+1,51550,16.3713935,48.558352,Austria_VINCA,Austria,25,24.07.2024,V Sobotka
+1,51461,16.36161,48.318248,Austria_VINCA,Austria,9,25.07.2024,V Sobotka
+1,50596,16.871728,48.2955881,Austria_VINCA,Austria,25,28.05.2025,J Pleyer
+1,50595,16.8710131,48.2944065,Austria_VINCA,Austria,25,04.06.2025,J Pleyer
+1,50592,16.8696986,48.2929886,Austria_VINCA,Austria,25,04.06.2025,J Pleyer
+1,50589,16.8702452,48.2951667,Austria_VINCA,Austria,25,04.06.2025,J Pleyer
+1,50390,16.1870774,48.3127754,Austria_VINCA,Austria,20,02.06.2024,J Pleyer
+1,50384,16.1904898,48.3100621,Austria_VINCA,Austria,20,02.06.2024,J Pleyer
+1,50374,16.18812,48.3133223,Austria_VINCA,Austria,20,26.06.2024,V Kalusová
+1,50332,16.149477,48.297635,Austria_VINCA,Austria,20,26.06.2024,V Kalusová

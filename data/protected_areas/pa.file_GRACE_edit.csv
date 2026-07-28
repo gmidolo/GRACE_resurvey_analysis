@@ -1,0 +1,42 @@
+﻿IUCN CATEGORY,DESIG,DESIG_E,COMMENT,Should it count as `PROTECTED`? (y/n),exclude
+II,Biosphärenpark,Biosphere Park,,,
+VI,Biosphärenpark,Biosphere Park,,,
+V,Chrán?ná krajinná oblast (CHKO),Protected Landscape Area,,,1
+V,Chránená krajinná oblas?; druhý stupe? ochrany,Protected Landscape Area; second level of protection,,,
+IV,Chránený areál / súkromný chránený areál,Protected Site / Private Protected Site,,,
+III,Chránený krajinný prvok,Protected feature,,,
+III,Geschützte Biotope,protected biotopes,,,
+IV,Geschützter Landschaftsteil,Protected Landscape Section,,,
+V,Geschützter Landschaftsteil,Protected Landscape Section,,,
+V,Landschaftschutzgebiet,Landscape Protection Area,,,
+V,Landschaftsschutzgebiet,Landscape Protection Area,,,
+II,Nationalpark,National Park,,,
+V,Naturpark,Nature Park,,,
+IV,Naturschutzgebiet,Nature Reserve,,,
+III,Národná prírodná pamiatka,National Nature Monument,,,
+Ia,Národná prírodná rezervácia,National Nature Reserve,,,
+IV,Národná prírodná rezervácia,National Nature Reserve,,,
+III,Národní p?írodní památka (NPP),National Nature Monument,,,
+IV,Národní p?írodní památka (NPP),National Nature Monument,,,
+V,Národní p?írodní památka (NPP),National Nature Monument,,,
+Ia,Národní p?írodní rezervace (NPR),National Nature Reserve,,,
+III,Národní p?írodní rezervace (NPR),National Nature Reserve,,,
+IV,Národní p?írodní rezervace (NPR),National Nature Reserve,,,
+II,Národní park (NP),National Park,,,
+Not Assigned,"Ochranné pásmo NPR, PR, NPP a PP","Buffer Zone of a National Nature Reserve, Nature Reserve, National Nature Monument, Nature Monument;",,,
+Not Assigned,Ochranné pásmo chráneného areálu,Buffer Zone of a Protected Site,,,
+III,P?írodní památka (PP),Nature Monument,,,
+IV,P?írodní památka (PP),Nature Monument,,,
+V,P?írodní památka (PP),Nature Monument,,,
+III,P?írodní rezervace (PR),Nature Reserve,,,
+IV,P?írodní rezervace (PR),Nature Reserve,,,
+III,Prírodná pamiatka / súkromná prírodná pamiatka,Nature Monument / Private Nature Monument,,,
+Ia,Prírodná rezervácia / súkromná prírodná rezervácia,Nature Reserve / Private Nature Reserve,,,
+IV,Prírodná rezervácia / súkromná prírodná rezervácia,Nature Reserve / Private Nature Reserve,,,
+Not Reported,"Ramsar Site, Wetland of International Importance","Ramsar Site, Wetland of International Importance",,,1
+Not Reported,Site of Community Importance (Habitats Directive),Site of Community Importance (Habitats Directive),,,1
+IV,Smluvn? chrán?né území (SCHÚ),Contract Protected Area,,,
+Not Reported,Special Areas of Conservation (Habitats Directive),Special Areas of Conservation (Habitats Directive),,,1
+Not Reported,Special Protection Area (Birds Directive),Special Protection Area (Birds Directive),,,1
+Not Applicable,UNESCO-MAB Biosphere Reserve,UNESCO-MAB Biosphere Reserve,,,1
+IV,Ökologische Entwicklungsfläche,Ecological Development Area,,,

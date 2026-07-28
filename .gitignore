@@ -9,3 +9,6 @@ data/landscape/sites_lc_changes_fin*
 
 # ignore raster buffer data
 data/landscape/buffer_rasters/*
+
+# ignore temperature raster data per year
+data/climate/chelsa_annual_crop/*
