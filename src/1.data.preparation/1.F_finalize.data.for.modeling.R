@@ -1,7 +1,6 @@
 ##################################################################################
 # Author: Gabriele Midolo
 # Email: midolo@fzp.czu.cz
-# Date: 27.01.2025
 ##################################################################################
 
 # Description: Finalize data for modeling and analyses

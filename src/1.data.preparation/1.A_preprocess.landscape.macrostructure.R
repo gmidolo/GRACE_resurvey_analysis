@@ -1,7 +1,6 @@
 ##################################################################################
 # Author: Gabriele Midolo
 # Email: midolo@fzp.czu.cz
-# Date: 25.01.2026
 ##################################################################################
 
 # Description: Process 1.5km buffer landscape data into united polygons and rasters

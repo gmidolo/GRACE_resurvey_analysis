@@ -1,7 +1,6 @@
 ##################################################################################
 # Author: Gabriele Midolo
 # Email: midolo@fzp.czu.cz
-# Date: 13.05.2026
 ##################################################################################
 
 # Description: Download CHELSA v2.1 monthly temperature (tas, 1980–2018) for a

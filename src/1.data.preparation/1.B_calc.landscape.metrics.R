@@ -1,7 +1,6 @@
 ##################################################################################
 # Author: Gabriele Midolo
 # Email: midolo@fzp.czu.cz
-# Date: 26.01.2026
 ##################################################################################
 
 # Description: Calculate various landscape metrics indices

@@ -1,0 +1,5 @@
+Response variable,Moran's I,Expected I,Variance,Z score,P value
+Species richness change (logRR_S),0.0696,-0.0024,4.06e-4,3.574,1.76e-4
+Compositional dissimilarity (Jaccard),0.0533,-0.0024,4.12e-4,2.747,0.00301
+Mean Nutrient Indicator change (ΔCM N),-0.0077,-0.0024,4.08e-4,-0.261,0.603
+Mean Moisture Indicator change (ΔCM M),0.0817,-0.0024,4.09e-4,4.164,1.57e-5
