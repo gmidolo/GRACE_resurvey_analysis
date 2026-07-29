@@ -6,8 +6,8 @@ This repository includes the **data** and **R code** used in our study.
 It allows for the reproduction of the main analyses and supplementary
 materials.
 
-We used the GRACE resurvey dataset (Haring et al. 2026; DOI: [LINK])
-conisting of 411 survey-resurvey vegetation plot pairs of grassland
+We analyzed the GRACE resurvey dataset (Haring et al. 2026; DOI: [LINK])
+consisting of 411 survey-resurvey vegetation plot pairs of grassland
 vegetation in Austria, Czechia, and Slovakia covering 95 years of
 timespan. We test how climate warming, landscape change, and
 protected-area status shape long-term change in plant diversity.
@@ -27,7 +27,7 @@ protected-area status shape long-term change in plant diversity.
 -   [License](#license)
 -   [Citation](#citation)
 
-## Authors and Contact {#authors-and-contact}
+## Authors and Contact
 
 ### Contact
 
@@ -39,45 +39,45 @@ Email: `midolo [at] fzp.czu [dot] cz`
 
 ### Authors
 
-Gabriele Midolo
+Gabriele Midolo<sup>1,*</sup>
 <a href="https://orcid.org/0000-0003-1316-2546" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Verena Haring
+Verena Haring<sup>2</sup>
 <a href="https://orcid.org/0009-0007-2564-9315" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Adam T. Clark
+Adam T. Clark<sup>2</sup>
 <a href="https://orcid.org/0000-0002-8843-3278" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Emma Shih Mendez
+Emma Shih Mendez<sup>3</sup>
 <a href="https://orcid.org/0009-0000-6031-5416" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Hana Skokanová
+Hana Skokanová<sup>4</sup>
 <a href="https://orcid.org/0000-0001-9677-2264" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Martina Sychrová
+Martina Sychrová<sup>4</sup>
 <a href="https://orcid.org/0000-0002-9503-2544" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Franz Essl
+Franz Essl<sup>3</sup>
 <a href="https://orcid.org/0000-0001-8253-2112" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Milan Chytrý
+Milan Chytrý<sup>5</sup>
 <a href="https://orcid.org/0000-0002-8122-3075" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Stefan Dullinger
+Stefan Dullinger<sup>6</sup>
 <a href="https://orcid.org/0000-0003-3919-0887" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Jozef Šibík
+Jozef Šibík<sup>7</sup>
 <a href="https://orcid.org/0000-0002-5949-862X" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Dariia Borovyk
+Dariia Borovyk<sup>8,9</sup>
 <a href="https://orcid.org/0000-0001-7140-7201" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Klára Friesová
+Klára Friesová<sup>5</sup>
 <a href="https://orcid.org/0000-0002-1644-2140" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Georg Hörmann
+Georg Hörmann<sup>2</sup>
 <a href="https://orcid.org/0009-0000-7451-2074" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Eliška Jagošová, Veronika Kalusová
+Eliška Jagošová<sup>1</sup>, Veronika Kalusová<sup>5</sup>
 <a href="https://orcid.org/0000-0002-4270-321X" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Matouš Marek
+Matouš Marek<sup>1</sup>
 <a href="https://orcid.org/0009-0006-4911-5361" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Julian Pleyer, Zdenka Preislerová
+Julian Pleyer<sup>6</sup>, Zdenka Preislerová<sup>5</sup>
 <a href="https://orcid.org/0000-0003-1288-7609" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Helena Schwaiger, Vojtěch Sobotka
+Helena Schwaiger<sup>10</sup>, Vojtěch Sobotka<sup>5</sup>
 <a href="https://orcid.org/0000-0002-0668-3258" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Marie Vymazalová
+Marie Vymazalová<sup>4</sup>
 <a href="https://orcid.org/0000-0002-8842-9156" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Friederike J. R. Wölke
+Friederike J. R. Wölke<sup>1</sup>
 <a href="https://orcid.org/0000-0001-9034-4883" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Petr Keil
+Petr Keil<sup>1</sup>
 <a href="https://orcid.org/0000-0003-3017-1858" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>
 
 ### Affiliations
@@ -105,13 +105,13 @@ Petr Keil
 11. Department of Ecology, Environment and Plant Sciences, Stockholm
     University, Stockholm, Sweden
 
-## Acknowledgements {#acknowledgements}
+## Acknowledgements
 
 The GRACE project is supported by the Czech Science Foundation grant
 24-14299L and the Austrian Science Foundation (FWF) grant I 6578 (DOI:
 [10.55776/I6578](https://doi.org/10.55776/I6578)).
 
-## Data Availability {#data-availability}
+## Data Availability
 
 The resurvey dataset of the GRACE project (Haring et al., 2026; DOI:
 [LINK]) is openly available under a CC0 1.0 license on Zenodo ([LINK]).
@@ -120,7 +120,7 @@ in this paper.
 
 ------------------------------------------------------------------------
 
-## Data (`data` folder) {#data-data-folder}
+## Data (`data` folder)
 
 The `data` folder contains the raw, intermediate, and processed data
 used in the analyses. Some large raster/netCDF files listed below (e.g.
@@ -204,7 +204,7 @@ they can be regenerated from source using the corresponding scripts.
 
 ------------------------------------------------------------------------
 
-## R Code (`src` folder) {#r-code-src-folder}
+## R Code (`src` folder)
 
 The `src` folder contains the R scripts organized by their purpose, following the numbering `<stage>.<step>_<description>.R`.
 
@@ -273,7 +273,7 @@ figures/tables.
     deposition trends (1990-2024) between Austria and
     Czechia-Slovakia using [EMEP model data](https://www.emep.int/mscw/mscw_moddata.html)).
 
-### Helper scripts {#helper-scripts}
+### Helper scripts
 
 -   [`src/utils.R`](src/utils.R): Contains utility functions / helpers
 
@@ -330,7 +330,7 @@ N.B. In the modeling scripts
 number, 2023 − 1870) are derived on the fly from the `grassland_*`
 columns above, and are not stored as separate columns in this file.
 
-## License {#license}
+## License
 
 **Data** are available under the terms of the Creative Commons Zero v1.0
 Universal license (CC0 1.0) - see [Data
@@ -340,7 +340,7 @@ Availability](#data-availability).
 General Public License v3.0 (GPL-3.0)
 (<https://www.gnu.org/licenses/gpl-3.0.html>).
 
-## Citation {#citation}
+## Citation
 
 Midolo, G., Haring, V., Clark, A.T., Shih Mendez, E., Skokanová, H.,
 Sychrová, M., Essl, F., Chytrý, M., Dullinger, S., Šibík, J., Borovyk,
