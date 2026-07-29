@@ -12,3 +12,6 @@ data/landscape/buffer_rasters/*
 
 # ignore temperature raster data per year
 data/climate/chelsa_annual_crop/*
+
+# ignore EMEP data folder
+data/EMEP_data
