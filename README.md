@@ -39,7 +39,7 @@ Email: `midolo [at] fzp.czu [dot] cz`
 
 ### Authors
 
-Gabriele Midolo<sup>1,*</sup>
+Gabriele Midolo<sup>1</sup>
 <a href="https://orcid.org/0000-0003-1316-2546" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
 Verena Haring<sup>2</sup>
 <a href="https://orcid.org/0009-0007-2564-9315" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
@@ -75,7 +75,7 @@ Helena Schwaiger<sup>10</sup>, Vojtěch Sobotka<sup>5</sup>
 <a href="https://orcid.org/0000-0002-0668-3258" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
 Marie Vymazalová<sup>4</sup>
 <a href="https://orcid.org/0000-0002-8842-9156" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Friederike J. R. Wölke<sup>1</sup>
+Friederike J. R. Wölke<sup>1,11</sup>
 <a href="https://orcid.org/0000-0001-9034-4883" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
 Petr Keil<sup>1</sup>
 <a href="https://orcid.org/0000-0003-3017-1858" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>
@@ -113,10 +113,9 @@ The GRACE project is supported by the Czech Science Foundation grant
 
 ## Data Availability
 
-The resurvey dataset of the GRACE project (Haring et al., 2026; DOI:
-[LINK]) is openly available under a CC0 1.0 license on Zenodo ([LINK]).
 The current repository can be used to reproduce the analyses presented
-in this paper.
+in this paper. The resurvey dataset of the GRACE project (Haring et al., 2026; DOI:
+[LINK]) is openly available under a CC0 1.0 license on Zenodo ([LINK]).
 
 ------------------------------------------------------------------------
 
@@ -327,12 +326,12 @@ pair), 39 columns.
 N.B. In the modeling scripts
 ([`2.A_model_fitting.R`](src/2.analysis/2.A_model_fitting.R) onward),
 `delta_CA` and `delta_NP` (change in grassland core area and patch
-number, 2023 − 1870) are derived on the fly from the `grassland_*`
-columns above, and are not stored as separate columns in this file.
+number, 2023 − 1870) are derived directly from `grassland_*`
+columns above in the script.
 
 ## License
 
-**Data** are available under the terms of the Creative Commons Zero v1.0
+**Vegetation data** are available under the terms of the Creative Commons Zero v1.0
 Universal license (CC0 1.0) - see [Data
 Availability](#data-availability).
 
@@ -347,8 +346,7 @@ Sychrová, M., Essl, F., Chytrý, M., Dullinger, S., Šibík, J., Borovyk,
 D., Friesová, K., Hörmann, G., Jagošová, E., Kalusová, V., Marek, M.,
 Pleyer, J., Preislerová, Z., Schwaiger, H., Sobotka, V., Vymazalová, M.,
 Wölke, F.J.R., Keil, P. Warming and protected areas shape long-term
-plant biodiversity change in Central European grasslands. *[Journal
-name]* (in preparation/under review). *In preparation*.
+plant biodiversity change in Central European grasslands. *In preparation/Under review*.
 
 Data citation: Haring, V. et al. (2026). GRACE resurvey dataset. Zenodo.
 DOI: [LINK]
