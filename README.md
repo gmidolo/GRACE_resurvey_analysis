@@ -6,11 +6,12 @@ This repository includes the **data** and **R code** used in our study.
 It allows for the reproduction of the main analyses and supplementary
 materials.
 
-We analyzed the GRACE resurvey dataset (Haring et al. 2026; DOI: [LINK])
+We analyzed the GRACE resurvey dataset ([Haring et al., 2026](#citation))
 consisting of 411 survey-resurvey vegetation plot pairs of grassland
 vegetation in Austria, Czechia, and Slovakia covering 95 years of
 timespan. We test how climate warming, landscape change, and
 protected-area status shape long-term change in plant diversity.
+
 
 ## Table of Contents
 
@@ -114,8 +115,9 @@ The GRACE project is supported by the Czech Science Foundation grant
 ## Data Availability
 
 The current repository can be used to reproduce the analyses presented
-in this paper. The resurvey dataset of the GRACE project (Haring et al., 2026; DOI:
-[LINK]) is openly available under a CC0 1.0 license on Zenodo ([LINK]).
+in this paper. The resurvey dataset of the GRACE project (Haring et al., 2026) 
+is openly available under a CC BY license at the following GitHub repository: 
+[adamtclark/GRACE_resurveydata](https://github.com/adamtclark/GRACE_resurveydata).
 
 ------------------------------------------------------------------------
 
@@ -331,8 +333,7 @@ columns above in the script.
 
 ## License
 
-**Vegetation data** are available under the terms of the Creative Commons Zero v1.0
-Universal license (CC0 1.0) - see [Data
+**Vegetation data** are available under the terms of the Creative Commons Attribution 4.0 International (CC BY) - see [Data
 Availability](#data-availability).
 
 **Code** in this repository is available under the terms of the GNU
@@ -341,6 +342,8 @@ General Public License v3.0 (GPL-3.0)
 
 ## Citation
 
+#### Paper citation
+
 Midolo, G., Haring, V., Clark, A.T., Shih Mendez, E., Skokanová, H.,
 Sychrová, M., Essl, F., Chytrý, M., Dullinger, S., Šibík, J., Borovyk,
 D., Friesová, K., Hörmann, G., Jagošová, E., Kalusová, V., Marek, M.,
@@ -348,5 +351,11 @@ Pleyer, J., Preislerová, Z., Schwaiger, H., Sobotka, V., Vymazalová, M.,
 Wölke, F.J.R., Keil, P. Warming and protected areas shape long-term
 plant biodiversity change in Central European grasslands. *In preparation/Under review*.
 
-Data citation: Haring, V. et al. (2026). GRACE resurvey dataset. Zenodo.
-DOI: [LINK]
+#### Data citation
+
+Haring, V., Midolo, G., Keil, P., Chytrý, M., Essl, F., Shih Mendez, E., 
+Padulosi, E., Borovyk, D., Wölke, F., Kalusová, V., Preislerová, Z., Chmelová, B., 
+Jagošová, E., Hörmann, G., Schwaiger, H., Pleyer, J., Vymazalová, M., Marek, M.,
+Türk, N., … Clark, A. T. (2026). GRACE Resurvey of Central European Grassland 
+Vegetation to study the Impacts of Country-Level Landscape Dynamics on Biodiversity.
+*In preparation/Under review*.
