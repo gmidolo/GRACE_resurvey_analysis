@@ -15,3 +15,6 @@ data/climate/chelsa_annual_crop/*
 
 # ignore EMEP data folder
 data/EMEP_data
+
+# ignore all model csv summaries
+data/output_brms_models/all_results_table.csv

@@ -76,7 +76,7 @@ Helena Schwaiger<sup>10</sup>, Vojtěch Sobotka<sup>5</sup>
 <a href="https://orcid.org/0000-0002-0668-3258" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
 Marie Vymazalová<sup>4</sup>
 <a href="https://orcid.org/0000-0002-8842-9156" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
-Friederike J. R. Wölke<sup>1,11</sup>
+Friederike J. R. Wölke<sup>1,11,12</sup>
 <a href="https://orcid.org/0000-0001-9034-4883" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>,
 Petr Keil<sup>1</sup>
 <a href="https://orcid.org/0000-0003-3017-1858" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" class="is-rounded" width="15"/></a>
@@ -105,6 +105,7 @@ Petr Keil<sup>1</sup>
 10. Ingenieurbüro für Biologie Schwaiger, Linz, Austria
 11. Department of Ecology, Environment and Plant Sciences, Stockholm
     University, Stockholm, Sweden
+12. Bolin Centre for Climate Research, Stockholm University, Stockholm, Sweden
 
 ## Acknowledgements
 
@@ -353,9 +354,6 @@ plant biodiversity change in Central European grasslands. *In preparation/Under 
 
 #### Data citation
 
-Haring, V., Midolo, G., Keil, P., Chytrý, M., Essl, F., Shih Mendez, E., 
-Padulosi, E., Borovyk, D., Wölke, F., Kalusová, V., Preislerová, Z., Chmelová, B., 
-Jagošová, E., Hörmann, G., Schwaiger, H., Pleyer, J., Vymazalová, M., Marek, M.,
-Türk, N., … Clark, A. T. (2026). GRACE Resurvey of Central European Grassland 
-Vegetation to study the Impacts of Country-Level Landscape Dynamics on Biodiversity.
-*In preparation/Under review*.
+Haring, V., Midolo, G., Keil, P., Chytrý, M., Essl, F., Mendez, E. S., ... & Clark, A. T. (2026).
+GRACE Resurvey of Central European Grassland Vegetation to study the Impacts of Country-Level Landscape Dynamics on Biodiversity.
+*EcoEvoRxiv*. <https://doi.org/10.32942/X2164H>
